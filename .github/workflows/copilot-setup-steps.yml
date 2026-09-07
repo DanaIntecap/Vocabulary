@@ -1,0 +1,54 @@
+Create the following folder structure inside the /images directory.
+
+Create these level folders:
+
+A1.1
+A1.2
+A2.1
+A2.2
+B1.1
+B1.2
+B1.3
+B1.4
+
+Inside each level folder, create these subfolders:
+
+unit1
+unit2
+unit3
+unit4
+unit5
+unit6
+unit7
+unit8
+
+Add a .gitkeep file inside every unit folder so GitHub tracks the folders even when they are empty.
+
+The final structure should look like:
+
+images/
+├── A1.1/
+│   ├── unit1/.gitkeep
+│   ├── unit2/.gitkeep
+│   ├── unit3/.gitkeep
+│   ├── unit4/.gitkeep
+│   ├── unit5/.gitkeep
+│   ├── unit6/.gitkeep
+│   ├── unit7/.gitkeep
+│   └── unit8/.gitkeep
+├── A1.2/
+│   └── unit1 ... unit8
+├── A2.1/
+│   └── unit1 ... unit8
+├── A2.2/
+│   └── unit1 ... unit8
+├── B1.1/
+│   └── unit1 ... unit8
+├── B1.2/
+│   └── unit1 ... unit8
+├── B1.3/
+│   └── unit1 ... unit8
+└── B1.4/
+    └── unit1 ... unit8
+
+Create all folders and commit the changes.
