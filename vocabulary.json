@@ -717,7 +717,7 @@
     "Unit": 1,
     "Word": "Ajectives",
     "Translation": "Ajetivos",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit1/ajectives.jpg"
   },
   {
     "Title": "VOC_A1.2_01_0081",
@@ -726,7 +726,7 @@
     "Unit": 1,
     "Word": "big",
     "Translation": "grande",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit1/big.jpg"
   },
   {
     "Title": "VOC_A1.2_01_0082",
@@ -735,7 +735,7 @@
     "Unit": 1,
     "Word": "small",
     "Translation": "pequeño",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit1/small.jpg"
   },
   {
     "Title": "VOC_A1.2_01_0083",
@@ -744,7 +744,7 @@
     "Unit": 1,
     "Word": "ugly",
     "Translation": "feo",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit1/ugly.jpg"
   },
   {
     "Title": "VOC_A1.2_01_0084",
@@ -753,7 +753,7 @@
     "Unit": 1,
     "Word": "polite",
     "Translation": "educado",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit1/polite.jpg"
   },
   {
     "Title": "VOC_A1.2_01_0085",
@@ -762,7 +762,7 @@
     "Unit": 1,
     "Word": "nice",
     "Translation": "lindo",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit1/nice.jpg"
   },
   {
     "Title": "VOC_A1.2_01_0086",
@@ -771,7 +771,7 @@
     "Unit": 1,
     "Word": "tall",
     "Translation": "alto",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit1/tall.jpg"
   },
   {
     "Title": "VOC_A1.2_01_0087",
@@ -780,7 +780,7 @@
     "Unit": 1,
     "Word": "short",
     "Translation": "corto",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit1/short.jpg"
   },
   {
     "Title": "VOC_A1.2_01_0088",
@@ -789,7 +789,7 @@
     "Unit": 1,
     "Word": "fat",
     "Translation": "gordo",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit1/fat.jpg"
   },
   {
     "Title": "VOC_A1.2_01_0089",
@@ -798,7 +798,7 @@
     "Unit": 1,
     "Word": "thin",
     "Translation": "delgado",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit1/thin.jpg"
   },
   {
     "Title": "VOC_A1.2_01_0090",
@@ -807,7 +807,7 @@
     "Unit": 1,
     "Word": "young",
     "Translation": "joven",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit1/young.jpg"
   },
   {
     "Title": "VOC_A1.2_01_0091",
@@ -816,7 +816,7 @@
     "Unit": 1,
     "Word": "new",
     "Translation": "nuevo",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit1/new.jpg"
   },
   {
     "Title": "VOC_A1.2_01_0092",
@@ -825,7 +825,7 @@
     "Unit": 1,
     "Word": "old",
     "Translation": "viejo",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit1/old.jpg"
   },
   {
     "Title": "VOC_A1.2_01_0093",
@@ -834,7 +834,7 @@
     "Unit": 1,
     "Word": "cold",
     "Translation": "frío",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit1/cold.jpg"
   },
   {
     "Title": "VOC_A1.2_01_0094",
@@ -843,7 +843,7 @@
     "Unit": 1,
     "Word": "hot",
     "Translation": "caliente",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit1/hot.jpg"
   },
   {
     "Title": "VOC_A1.2_01_0095",
@@ -852,7 +852,7 @@
     "Unit": 1,
     "Word": "expensive",
     "Translation": "caro",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit1/expensive.jpg"
   },
   {
     "Title": "VOC_A1.2_01_0096",
@@ -861,7 +861,7 @@
     "Unit": 1,
     "Word": "cheap",
     "Translation": "barato",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit1/cheap.jpg"
   },
   {
     "Title": "VOC_A1.2_01_0097",
@@ -870,7 +870,7 @@
     "Unit": 1,
     "Word": "slow",
     "Translation": "lento",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit1/slow.jpg"
   },
   {
     "Title": "VOC_A1.2_01_0098",
@@ -879,7 +879,7 @@
     "Unit": 1,
     "Word": "fast",
     "Translation": "rápido",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit1/fast.jpg"
   },
   {
     "Title": "VOC_A1.2_01_0099",
@@ -888,7 +888,7 @@
     "Unit": 1,
     "Word": "comfortable",
     "Translation": "cómodo",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit1/comfortable.jpg"
   },
   {
     "Title": "VOC_A1.2_01_0100",
@@ -897,7 +897,7 @@
     "Unit": 1,
     "Word": "uncomfortable",
     "Translation": "incómodo",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit1/uncomfortable.jpg"
   },
   {
     "Title": "VOC_A1.2_01_0101",
@@ -906,7 +906,7 @@
     "Unit": 1,
     "Word": "Pull the plug",
     "Translation": "Tire del enchufe",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit1/pulltheplug.jpg"
   },
   {
     "Title": "VOC_A1.2_02_0102",
@@ -915,7 +915,7 @@
     "Unit": 2,
     "Word": "Office supplies and furniture",
     "Translation": "Material y mobiliario de oficina",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit2/officesuppliesandfurniture.jpg"
   },
   {
     "Title": "VOC_A1.2_02_0103",
@@ -924,7 +924,7 @@
     "Unit": 2,
     "Word": "desk",
     "Translation": "escritorio",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit2/desk.jpg"
   },
   {
     "Title": "VOC_A1.2_02_0104",
@@ -933,7 +933,7 @@
     "Unit": 2,
     "Word": "keyboard",
     "Translation": "teclado",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit2/keyboard.jpg"
   },
   {
     "Title": "VOC_A1.2_02_0105",
@@ -942,7 +942,7 @@
     "Unit": 2,
     "Word": "filing cabinet",
     "Translation": "archivador",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit2/filingcabinet.jpg"
   },
   {
     "Title": "VOC_A1.2_02_0106",
@@ -951,7 +951,7 @@
     "Unit": 2,
     "Word": "sticky notes",
     "Translation": "notas adhesivas",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit2/stickynotes.jpg"
   },
   {
     "Title": "VOC_A1.2_02_0107",
@@ -960,7 +960,7 @@
     "Unit": 2,
     "Word": "envelope",
     "Translation": "sobre",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit2/envelope.jpg"
   },
   {
     "Title": "VOC_A1.2_02_0108",
@@ -969,7 +969,7 @@
     "Unit": 2,
     "Word": "clipboard highlighter",
     "Translation": "resaltador del portapapeles",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit2/clipboardhighlighter.jpg"
   },
   {
     "Title": "VOC_A1.2_02_0109",
@@ -978,7 +978,7 @@
     "Unit": 2,
     "Word": "stapler",
     "Translation": "grapadora",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit2/stapler.jpg"
   },
   {
     "Title": "VOC_A1.2_02_0110",
@@ -987,7 +987,7 @@
     "Unit": 2,
     "Word": "tape dispenser",
     "Translation": "dispensador de cinta",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit2/tapedispenser.jpg"
   },
   {
     "Title": "VOC_A1.2_02_0111",
@@ -996,7 +996,7 @@
     "Unit": 2,
     "Word": "waste basket",
     "Translation": "cesto de basura",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit2/wastebasket.jpg"
   },
   {
     "Title": "VOC_A1.2_02_0112",
@@ -1005,7 +1005,7 @@
     "Unit": 2,
     "Word": "Shape up or ship out",
     "Translation": "Ponerse en forma o enviar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit2/shapeuporshipout.jpg"
   },
   {
     "Title": "VOC_A1.2_03_0113",
@@ -1014,7 +1014,7 @@
     "Unit": 3,
     "Word": "Verbs related to business",
     "Translation": "Verbos relacionados con los negocios.",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit3/verbsrelatedtobusiness.jpg"
   },
   {
     "Title": "VOC_A1.2_03_0114",
@@ -1023,7 +1023,7 @@
     "Unit": 3,
     "Word": "accept",
     "Translation": "aceptar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit3/accept.jpg"
   },
   {
     "Title": "VOC_A1.2_03_0115",
@@ -1032,7 +1032,7 @@
     "Unit": 3,
     "Word": "admit",
     "Translation": "admitir",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit3/admit.jpg"
   },
   {
     "Title": "VOC_A1.2_03_0116",
@@ -1041,7 +1041,7 @@
     "Unit": 3,
     "Word": "approve",
     "Translation": "aprobar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit3/approve.jpg"
   },
   {
     "Title": "VOC_A1.2_03_0117",
@@ -1050,7 +1050,7 @@
     "Unit": 3,
     "Word": "avoid",
     "Translation": "evitar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit3/avoid.jpg"
   },
   {
     "Title": "VOC_A1.2_03_0118",
@@ -1059,7 +1059,7 @@
     "Unit": 3,
     "Word": "buy",
     "Translation": "comprar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit3/buy.jpg"
   },
   {
     "Title": "VOC_A1.2_03_0119",
@@ -1068,7 +1068,7 @@
     "Unit": 3,
     "Word": "charge for",
     "Translation": "cobrar por",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit3/chargefor.jpg"
   },
   {
     "Title": "VOC_A1.2_03_0120",
@@ -1077,7 +1077,7 @@
     "Unit": 3,
     "Word": "complain",
     "Translation": "quejarse",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit3/complain.jpg"
   },
   {
     "Title": "VOC_A1.2_03_0121",
@@ -1086,7 +1086,7 @@
     "Unit": 3,
     "Word": "decrease",
     "Translation": "disminuir",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit3/decrease.jpg"
   },
   {
     "Title": "VOC_A1.2_03_0122",
@@ -1095,7 +1095,7 @@
     "Unit": 3,
     "Word": "develop",
     "Translation": "desarrollar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit3/develop.jpg"
   },
   {
     "Title": "VOC_A1.2_03_0123",
@@ -1104,7 +1104,7 @@
     "Unit": 3,
     "Word": "increase",
     "Translation": "aumentar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit3/increase.jpg"
   },
   {
     "Title": "VOC_A1.2_03_0124",
@@ -1113,7 +1113,7 @@
     "Unit": 3,
     "Word": "inform",
     "Translation": "informar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit3/inform.jpg"
   },
   {
     "Title": "VOC_A1.2_03_0125",
@@ -1122,7 +1122,7 @@
     "Unit": 3,
     "Word": "invest",
     "Translation": "invertir",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit3/invest.jpg"
   },
   {
     "Title": "VOC_A1.2_03_0126",
@@ -1131,7 +1131,7 @@
     "Unit": 3,
     "Word": "manage",
     "Translation": "administrar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit3/manage.jpg"
   },
   {
     "Title": "VOC_A1.2_03_0127",
@@ -1140,7 +1140,7 @@
     "Unit": 3,
     "Word": "sell",
     "Translation": "vender",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit3/sell.jpg"
   },
   {
     "Title": "VOC_A1.2_03_0128",
@@ -1149,7 +1149,7 @@
     "Unit": 3,
     "Word": "Bite the bullet",
     "Translation": "Muerde la bala",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit3/bitethebullet.jpg"
   },
   {
     "Title": "VOC_A1.2_04_0129",
@@ -1158,7 +1158,7 @@
     "Unit": 4,
     "Word": "Supermarket products",
     "Translation": "Productos de supermercado",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit4/supermarketproducts.jpg"
   },
   {
     "Title": "VOC_A1.2_04_0130",
@@ -1167,7 +1167,7 @@
     "Unit": 4,
     "Word": "toothpaste",
     "Translation": "pasta dentífrica",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit4/toothpaste.jpg"
   },
   {
     "Title": "VOC_A1.2_04_0131",
@@ -1176,7 +1176,7 @@
     "Unit": 4,
     "Word": "soap",
     "Translation": "jabón",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit4/soap.jpg"
   },
   {
     "Title": "VOC_A1.2_04_0132",
@@ -1185,7 +1185,7 @@
     "Unit": 4,
     "Word": "disinfectant",
     "Translation": "desinfectante",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit4/disinfectant.jpg"
   },
   {
     "Title": "VOC_A1.2_04_0133",
@@ -1194,7 +1194,7 @@
     "Unit": 4,
     "Word": "cream",
     "Translation": "crema",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit4/cream.jpg"
   },
   {
     "Title": "VOC_A1.2_04_0134",
@@ -1203,7 +1203,7 @@
     "Unit": 4,
     "Word": "groceries",
     "Translation": "comestibles",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit4/groceries.jpg"
   },
   {
     "Title": "VOC_A1.2_04_0135",
@@ -1212,7 +1212,7 @@
     "Unit": 4,
     "Word": "oil",
     "Translation": "aceite",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit4/oil.jpg"
   },
   {
     "Title": "VOC_A1.2_04_0136",
@@ -1221,7 +1221,7 @@
     "Unit": 4,
     "Word": "rice",
     "Translation": "arroz",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit4/rice.jpg"
   },
   {
     "Title": "VOC_A1.2_04_0137",
@@ -1230,7 +1230,7 @@
     "Unit": 4,
     "Word": "pasta",
     "Translation": "pastas",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit4/pasta.jpg"
   },
   {
     "Title": "VOC_A1.2_04_0138",
@@ -1239,7 +1239,7 @@
     "Unit": 4,
     "Word": "flour",
     "Translation": "harina",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit4/flour.jpg"
   },
   {
     "Title": "VOC_A1.2_04_0139",
@@ -1248,7 +1248,7 @@
     "Unit": 4,
     "Word": "chicken",
     "Translation": "pollo",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit4/chicken.jpg"
   },
   {
     "Title": "VOC_A1.2_04_0140",
@@ -1257,7 +1257,7 @@
     "Unit": 4,
     "Word": "bacon",
     "Translation": "tocino",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit4/bacon.jpg"
   },
   {
     "Title": "VOC_A1.2_04_0141",
@@ -1266,7 +1266,7 @@
     "Unit": 4,
     "Word": "fruits and vegetables",
     "Translation": "frutas y verduras",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit4/fruitsandvegetables.jpg"
   },
   {
     "Title": "VOC_A1.2_04_0142",
@@ -1275,7 +1275,7 @@
     "Unit": 4,
     "Word": "wine",
     "Translation": "vino",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit4/wine.jpg"
   },
   {
     "Title": "VOC_A1.2_04_0143",
@@ -1284,7 +1284,7 @@
     "Unit": 4,
     "Word": "water",
     "Translation": "agua",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit4/water.jpg"
   },
   {
     "Title": "VOC_A1.2_04_0144",
@@ -1293,7 +1293,7 @@
     "Unit": 4,
     "Word": "Don’t cry over spilled milk",
     "Translation": "No llores por la leche derramada",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit4/dontcryoverspilledmilk.jpg"
   },
   {
     "Title": "VOC_A1.2_05_0145",
@@ -1302,7 +1302,7 @@
     "Unit": 5,
     "Word": "Routines at work",
     "Translation": "rutinas en el trabajo",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit5/routinesatwork.jpg"
   },
   {
     "Title": "VOC_A1.2_05_0146",
@@ -1311,7 +1311,7 @@
     "Unit": 5,
     "Word": "attend a meeting",
     "Translation": "asistir a una reunión",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit5/attendameeting.jpg"
   },
   {
     "Title": "VOC_A1.2_05_0147",
@@ -1320,7 +1320,7 @@
     "Unit": 5,
     "Word": "prepare reports",
     "Translation": "preparar informes",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit5/preparereports.jpg"
   },
   {
     "Title": "VOC_A1.2_05_0148",
@@ -1329,7 +1329,7 @@
     "Unit": 5,
     "Word": "talk to customers",
     "Translation": "hablar con los clientes",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit5/talktocustomers.jpg"
   },
   {
     "Title": "VOC_A1.2_05_0149",
@@ -1338,7 +1338,7 @@
     "Unit": 5,
     "Word": "give a presentation",
     "Translation": "dar una presentación",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit5/giveapresentation.jpg"
   },
   {
     "Title": "VOC_A1.2_05_0150",
@@ -1347,7 +1347,7 @@
     "Unit": 5,
     "Word": "attend meetings",
     "Translation": "asistir a reuniones",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit5/attendmeetings.jpg"
   },
   {
     "Title": "VOC_A1.2_05_0151",
@@ -1356,7 +1356,7 @@
     "Unit": 5,
     "Word": "start work",
     "Translation": "empezar a trabajar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit5/startwork.jpg"
   },
   {
     "Title": "VOC_A1.2_05_0152",
@@ -1365,7 +1365,7 @@
     "Unit": 5,
     "Word": "finish work",
     "Translation": "terminar el trabajo",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit5/finishwork.jpg"
   },
   {
     "Title": "VOC_A1.2_05_0153",
@@ -1374,7 +1374,7 @@
     "Unit": 5,
     "Word": "go to work by",
     "Translation": "ir a trabajar por",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit5/gotoworkby.jpg"
   },
   {
     "Title": "VOC_A1.2_05_0154",
@@ -1383,7 +1383,7 @@
     "Unit": 5,
     "Word": "make phone calls",
     "Translation": "hacer llamadas telefónicas",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit5/makephonecalls.jpg"
   },
   {
     "Title": "VOC_A1.2_05_0155",
@@ -1392,7 +1392,7 @@
     "Unit": 5,
     "Word": "make appointments",
     "Translation": "hacer citas",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit5/makeappointments.jpg"
   },
   {
     "Title": "VOC_A1.2_05_0156",
@@ -1401,7 +1401,7 @@
     "Unit": 5,
     "Word": "Blockbuster",
     "Translation": "éxito de taquilla",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit5/blockbuster.jpg"
   },
   {
     "Title": "VOC_A1.2_06_0157",
@@ -1410,7 +1410,7 @@
     "Unit": 6,
     "Word": "Marketing and advertising",
     "Translation": "Mercadotecnia y publicidad",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit6/marketingandadvertising.jpg"
   },
   {
     "Title": "VOC_A1.2_06_0158",
@@ -1419,7 +1419,7 @@
     "Unit": 6,
     "Word": "accomplish",
     "Translation": "lograr",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit6/accomplish.jpg"
   },
   {
     "Title": "VOC_A1.2_06_0159",
@@ -1428,7 +1428,7 @@
     "Unit": 6,
     "Word": "achieve",
     "Translation": "lograr",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit6/achieve.jpg"
   },
   {
     "Title": "VOC_A1.2_06_0160",
@@ -1437,7 +1437,7 @@
     "Unit": 6,
     "Word": "advertise",
     "Translation": "anunciar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit6/advertise.jpg"
   },
   {
     "Title": "VOC_A1.2_06_0161",
@@ -1446,7 +1446,7 @@
     "Unit": 6,
     "Word": "afford",
     "Translation": "poder pagar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit6/afford.jpg"
   },
   {
     "Title": "VOC_A1.2_06_0162",
@@ -1455,7 +1455,7 @@
     "Unit": 6,
     "Word": "anticipate",
     "Translation": "anticipar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit6/anticipate.jpg"
   },
   {
     "Title": "VOC_A1.2_06_0163",
@@ -1464,7 +1464,7 @@
     "Unit": 6,
     "Word": "believe",
     "Translation": "creer",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit6/believe.jpg"
   },
   {
     "Title": "VOC_A1.2_06_0164",
@@ -1473,7 +1473,7 @@
     "Unit": 6,
     "Word": "benefit from",
     "Translation": "beneficiarse de",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit6/benefitfrom.jpg"
   },
   {
     "Title": "VOC_A1.2_06_0165",
@@ -1482,7 +1482,7 @@
     "Unit": 6,
     "Word": "boost",
     "Translation": "aumentar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit6/boost.jpg"
   },
   {
     "Title": "VOC_A1.2_06_0166",
@@ -1491,7 +1491,7 @@
     "Unit": 6,
     "Word": "certify",
     "Translation": "certificar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit6/certify.jpg"
   },
   {
     "Title": "VOC_A1.2_06_0167",
@@ -1500,7 +1500,7 @@
     "Unit": 6,
     "Word": "deny",
     "Translation": "denegar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit6/deny.jpg"
   },
   {
     "Title": "VOC_A1.2_06_0168",
@@ -1509,7 +1509,7 @@
     "Unit": 6,
     "Word": "discover",
     "Translation": "descubrir",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit6/discover.jpg"
   },
   {
     "Title": "VOC_A1.2_06_0169",
@@ -1518,7 +1518,7 @@
     "Unit": 6,
     "Word": "emerge",
     "Translation": "surgir",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit6/emerge.jpg"
   },
   {
     "Title": "VOC_A1.2_06_0170",
@@ -1527,7 +1527,7 @@
     "Unit": 6,
     "Word": "focus",
     "Translation": "enfocar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit6/focus.jpg"
   },
   {
     "Title": "VOC_A1.2_06_0171",
@@ -1536,7 +1536,7 @@
     "Unit": 6,
     "Word": "gain",
     "Translation": "ganar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit6/gain.jpg"
   },
   {
     "Title": "VOC_A1.2_06_0172",
@@ -1545,7 +1545,7 @@
     "Unit": 6,
     "Word": "inspire",
     "Translation": "inspirar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit6/inspire.jpg"
   },
   {
     "Title": "VOC_A1.2_06_0173",
@@ -1554,7 +1554,7 @@
     "Unit": 6,
     "Word": "risk",
     "Translation": "riesgo",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit6/risk.jpg"
   },
   {
     "Title": "VOC_A1.2_06_0174",
@@ -1563,7 +1563,7 @@
     "Unit": 6,
     "Word": "promote",
     "Translation": "promover",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit6/promote.jpg"
   },
   {
     "Title": "VOC_A1.2_06_0175",
@@ -1572,7 +1572,7 @@
     "Unit": 6,
     "Word": "Keep one’s eye on the prize",
     "Translation": "No pierdas de vista el premio",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit6/keeponeseyeontheprize.jpg"
   },
   {
     "Title": "VOC_A1.2_07_0176",
@@ -1581,7 +1581,7 @@
     "Unit": 7,
     "Word": "Commuting",
     "Translation": "Desplazamientos",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit7/commuting.jpg"
   },
   {
     "Title": "VOC_A1.2_07_0177",
@@ -1590,7 +1590,7 @@
     "Unit": 7,
     "Word": "turn left/right",
     "Translation": "girar a la izquierda/derecha",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit7/turnleftright.jpg"
   },
   {
     "Title": "VOC_A1.2_07_0178",
@@ -1599,7 +1599,7 @@
     "Unit": 7,
     "Word": "go straight",
     "Translation": "Siga derecho",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit7/gostraight.jpg"
   },
   {
     "Title": "VOC_A1.2_07_0179",
@@ -1608,7 +1608,7 @@
     "Unit": 7,
     "Word": "on the corner of",
     "Translation": "en la esquina de",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit7/onthecornerof.jpg"
   },
   {
     "Title": "VOC_A1.2_07_0180",
@@ -1617,7 +1617,7 @@
     "Unit": 7,
     "Word": "walk along",
     "Translation": "caminar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit7/walkalong.jpg"
   },
   {
     "Title": "VOC_A1.2_07_0181",
@@ -1626,7 +1626,7 @@
     "Unit": 7,
     "Word": "across",
     "Translation": "al otro lado de",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit7/across.jpg"
   },
   {
     "Title": "VOC_A1.2_07_0182",
@@ -1635,7 +1635,7 @@
     "Unit": 7,
     "Word": "near",
     "Translation": "cerca",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit7/near.jpg"
   },
   {
     "Title": "VOC_A1.2_07_0183",
@@ -1644,7 +1644,7 @@
     "Unit": 7,
     "Word": "far from",
     "Translation": "lejos de",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit7/farfrom.jpg"
   },
   {
     "Title": "VOC_A1.2_07_0184",
@@ -1653,7 +1653,7 @@
     "Unit": 7,
     "Word": "from",
     "Translation": "de",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit7/from.jpg"
   },
   {
     "Title": "VOC_A1.2_07_0185",
@@ -1662,7 +1662,7 @@
     "Unit": 7,
     "Word": "to",
     "Translation": "a",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit7/to.jpg"
   },
   {
     "Title": "VOC_A1.2_07_0186",
@@ -1671,7 +1671,7 @@
     "Unit": 7,
     "Word": "car",
     "Translation": "auto",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit7/car.jpg"
   },
   {
     "Title": "VOC_A1.2_07_0187",
@@ -1680,7 +1680,7 @@
     "Unit": 7,
     "Word": "bike",
     "Translation": "bicicleta",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit7/bike.jpg"
   },
   {
     "Title": "VOC_A1.2_07_0188",
@@ -1689,7 +1689,7 @@
     "Unit": 7,
     "Word": "motorcycle",
     "Translation": "motocicleta",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit7/motorcycle.jpg"
   },
   {
     "Title": "VOC_A1.2_07_0189",
@@ -1698,7 +1698,7 @@
     "Unit": 7,
     "Word": "train",
     "Translation": "tren",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit7/train.jpg"
   },
   {
     "Title": "VOC_A1.2_07_0190",
@@ -1707,7 +1707,7 @@
     "Unit": 7,
     "Word": "plain",
     "Translation": "plano",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit7/plain.jpg"
   },
   {
     "Title": "VOC_A1.2_07_0191",
@@ -1716,7 +1716,7 @@
     "Unit": 7,
     "Word": "metro",
     "Translation": "metro",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit7/metro.jpg"
   },
   {
     "Title": "VOC_A1.2_07_0192",
@@ -1725,7 +1725,7 @@
     "Unit": 7,
     "Word": "Miss the boat",
     "Translation": "perder el barco",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit7/misstheboat.jpg"
   },
   {
     "Title": "VOC_A1.2_08_0193",
@@ -1734,7 +1734,7 @@
     "Unit": 8,
     "Word": "Industry Types",
     "Translation": "Tipos de industria",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit8/industrytypes.jpg"
   },
   {
     "Title": "VOC_A1.2_08_0194",
@@ -1743,7 +1743,7 @@
     "Unit": 8,
     "Word": "architectural services",
     "Translation": "servicios de arquitectura",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit8/architecturalservices.jpg"
   },
   {
     "Title": "VOC_A1.2_08_0195",
@@ -1752,7 +1752,7 @@
     "Unit": 8,
     "Word": "banking",
     "Translation": "bancario",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit8/banking.jpg"
   },
   {
     "Title": "VOC_A1.2_08_0196",
@@ -1761,7 +1761,7 @@
     "Unit": 8,
     "Word": "clothing manufacturing",
     "Translation": "fabricación de ropa",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit8/clothingmanufacturing.jpg"
   },
   {
     "Title": "VOC_A1.2_08_0197",
@@ -1770,7 +1770,7 @@
     "Unit": 8,
     "Word": "computer software",
     "Translation": "software de computadora",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit8/computersoftware.jpg"
   },
   {
     "Title": "VOC_A1.2_08_0198",
@@ -1779,7 +1779,7 @@
     "Unit": 8,
     "Word": "education",
     "Translation": "educación",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit8/education.jpg"
   },
   {
     "Title": "VOC_A1.2_08_0199",
@@ -1788,7 +1788,7 @@
     "Unit": 8,
     "Word": "environment",
     "Translation": "ambiente",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit8/environment.jpg"
   },
   {
     "Title": "VOC_A1.2_08_0200",
@@ -1797,7 +1797,7 @@
     "Unit": 8,
     "Word": "food and beverage",
     "Translation": "comida y bebida",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit8/foodandbeverage.jpg"
   },
   {
     "Title": "VOC_A1.2_08_0201",
@@ -1806,7 +1806,7 @@
     "Unit": 8,
     "Word": "finance",
     "Translation": "finanzas",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit8/finance.jpg"
   },
   {
     "Title": "VOC_A1.2_08_0202",
@@ -1815,7 +1815,7 @@
     "Unit": 8,
     "Word": "health",
     "Translation": "salud",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit8/health.jpg"
   },
   {
     "Title": "VOC_A1.2_08_0203",
@@ -1824,7 +1824,7 @@
     "Unit": 8,
     "Word": "insurance",
     "Translation": "seguro",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit8/insurance.jpg"
   },
   {
     "Title": "VOC_A1.2_08_0204",
@@ -1833,7 +1833,7 @@
     "Unit": 8,
     "Word": "pharmaceuticals",
     "Translation": "productos farmaceuticos",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit8/pharmaceuticals.jpg"
   },
   {
     "Title": "VOC_A1.2_08_0205",
@@ -1842,7 +1842,7 @@
     "Unit": 8,
     "Word": "information technology",
     "Translation": "tecnologías de la información",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit8/informationtechnology.jpg"
   },
   {
     "Title": "VOC_A1.2_08_0206",
@@ -1851,7 +1851,7 @@
     "Unit": 8,
     "Word": "Music to one’s ears",
     "Translation": "Música para los oídos",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit8/musictoonesears.jpg"
   },
   {
     "Title": "VOC_A2.1_01_0207",
@@ -1860,7 +1860,7 @@
     "Unit": 1,
     "Word": "Shopping",
     "Translation": "Compras",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit1/shopping.jpg"
   },
   {
     "Title": "VOC_A2.1_01_0208",
@@ -1869,7 +1869,7 @@
     "Unit": 1,
     "Word": "product",
     "Translation": "producto",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit1/product.jpg"
   },
   {
     "Title": "VOC_A2.1_01_0209",
@@ -1878,7 +1878,7 @@
     "Unit": 1,
     "Word": "profit",
     "Translation": "ganancia",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit1/profit.jpg"
   },
   {
     "Title": "VOC_A2.1_01_0210",
@@ -1887,7 +1887,7 @@
     "Unit": 1,
     "Word": "clearance",
     "Translation": "autorización",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit1/clearance.jpg"
   },
   {
     "Title": "VOC_A2.1_01_0211",
@@ -1896,7 +1896,7 @@
     "Unit": 1,
     "Word": "stock",
     "Translation": "existencias",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit1/stock.jpg"
   },
   {
     "Title": "VOC_A2.1_01_0212",
@@ -1905,7 +1905,7 @@
     "Unit": 1,
     "Word": "size",
     "Translation": "tamaño",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit1/size.jpg"
   },
   {
     "Title": "VOC_A2.1_01_0213",
@@ -1914,7 +1914,7 @@
     "Unit": 1,
     "Word": "to bargain",
     "Translation": "negociar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit1/tobargain.jpg"
   },
   {
     "Title": "VOC_A2.1_01_0214",
@@ -1923,7 +1923,7 @@
     "Unit": 1,
     "Word": "percent off",
     "Translation": "porcentaje de descuento",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit1/percentoff.jpg"
   },
   {
     "Title": "VOC_A2.1_01_0215",
@@ -1932,7 +1932,7 @@
     "Unit": 1,
     "Word": "customer",
     "Translation": "cliente",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit1/customer.jpg"
   },
   {
     "Title": "VOC_A2.1_01_0216",
@@ -1941,7 +1941,7 @@
     "Unit": 1,
     "Word": "cashier",
     "Translation": "cajero",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit1/cashier.jpg"
   },
   {
     "Title": "VOC_A2.1_01_0217",
@@ -1950,7 +1950,7 @@
     "Unit": 1,
     "Word": "wallet",
     "Translation": "billetera",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit1/wallet.jpg"
   },
   {
     "Title": "VOC_A2.1_01_0218",
@@ -1959,7 +1959,7 @@
     "Unit": 1,
     "Word": "purse",
     "Translation": "cartera",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit1/purse.jpg"
   },
   {
     "Title": "VOC_A2.1_01_0219",
@@ -1968,7 +1968,7 @@
     "Unit": 1,
     "Word": "scale",
     "Translation": "escala",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit1/scale.jpg"
   },
   {
     "Title": "VOC_A2.1_01_0220",
@@ -1977,7 +1977,7 @@
     "Unit": 1,
     "Word": "shelf",
     "Translation": "estante",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit1/shelf.jpg"
   },
   {
     "Title": "VOC_A2.1_01_0221",
@@ -1986,7 +1986,7 @@
     "Unit": 1,
     "Word": "barcode",
     "Translation": "código de barras",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit1/barcode.jpg"
   },
   {
     "Title": "VOC_A2.1_01_0222",
@@ -1995,7 +1995,7 @@
     "Unit": 1,
     "Word": "cart",
     "Translation": "carro",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit1/cart.jpg"
   },
   {
     "Title": "VOC_A2.1_01_0223",
@@ -2004,7 +2004,7 @@
     "Unit": 1,
     "Word": "basket",
     "Translation": "cesta",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit1/basket.jpg"
   },
   {
     "Title": "VOC_A2.1_01_0224",
@@ -2013,7 +2013,7 @@
     "Unit": 1,
     "Word": "cash",
     "Translation": "dinero",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit1/cash.jpg"
   },
   {
     "Title": "VOC_A2.1_01_0225",
@@ -2022,7 +2022,7 @@
     "Unit": 1,
     "Word": "credit card",
     "Translation": "tarjeta de crédito",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit1/creditcard.jpg"
   },
   {
     "Title": "VOC_A2.1_01_0226",
@@ -2031,7 +2031,7 @@
     "Unit": 1,
     "Word": "debit card",
     "Translation": "tarjeta de débito",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit1/debitcard.jpg"
   },
   {
     "Title": "VOC_A2.1_01_0227",
@@ -2040,7 +2040,7 @@
     "Unit": 1,
     "Word": "clothes",
     "Translation": "ropa",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit1/clothes.jpg"
   },
   {
     "Title": "VOC_A2.1_01_0228",
@@ -2049,7 +2049,7 @@
     "Unit": 1,
     "Word": "Call it a day",
     "Translation": "Terminar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit1/callitaday.jpg"
   },
   {
     "Title": "VOC_A2.1_02_0229",
@@ -2058,7 +2058,7 @@
     "Unit": 2,
     "Word": "Food and drinks",
     "Translation": "Alimentos y bebidas",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit2/foodanddrinks.jpg"
   },
   {
     "Title": "VOC_A2.1_02_0230",
@@ -2067,7 +2067,7 @@
     "Unit": 2,
     "Word": "Poultry",
     "Translation": "Aves de corral",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit2/poultry.jpg"
   },
   {
     "Title": "VOC_A2.1_02_0231",
@@ -2076,7 +2076,7 @@
     "Unit": 2,
     "Word": "seafood",
     "Translation": "mariscos",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit2/seafood.jpg"
   },
   {
     "Title": "VOC_A2.1_02_0232",
@@ -2085,7 +2085,7 @@
     "Unit": 2,
     "Word": "fast food",
     "Translation": "Comida rápida",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit2/fastfood.jpg"
   },
   {
     "Title": "VOC_A2.1_02_0233",
@@ -2094,7 +2094,7 @@
     "Unit": 2,
     "Word": "beef",
     "Translation": "carne de res",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit2/beef.jpg"
   },
   {
     "Title": "VOC_A2.1_02_0234",
@@ -2103,7 +2103,7 @@
     "Unit": 2,
     "Word": "produce",
     "Translation": "producir",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit2/produce.jpg"
   },
   {
     "Title": "VOC_A2.1_02_0235",
@@ -2112,7 +2112,7 @@
     "Unit": 2,
     "Word": "dairy products",
     "Translation": "productos lácteos",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit2/dairyproducts.jpg"
   },
   {
     "Title": "VOC_A2.1_02_0236",
@@ -2121,7 +2121,7 @@
     "Unit": 2,
     "Word": "fruits and vegetables",
     "Translation": "frutas y verduras",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit2/fruitsandvegetables.jpg"
   },
   {
     "Title": "VOC_A2.1_02_0237",
@@ -2130,7 +2130,7 @@
     "Unit": 2,
     "Word": "butter",
     "Translation": "manteca",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit2/butter.jpg"
   },
   {
     "Title": "VOC_A2.1_02_0238",
@@ -2139,7 +2139,7 @@
     "Unit": 2,
     "Word": "jelly",
     "Translation": "gelatina",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit2/jelly.jpg"
   },
   {
     "Title": "VOC_A2.1_02_0239",
@@ -2148,7 +2148,7 @@
     "Unit": 2,
     "Word": "wine",
     "Translation": "vino",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit2/wine.jpg"
   },
   {
     "Title": "VOC_A2.1_02_0240",
@@ -2157,7 +2157,7 @@
     "Unit": 2,
     "Word": "lemonade",
     "Translation": "limonada",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit2/lemonade.jpg"
   },
   {
     "Title": "VOC_A2.1_02_0241",
@@ -2166,7 +2166,7 @@
     "Unit": 2,
     "Word": "hot chocolate",
     "Translation": "chocolate caliente",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit2/hotchocolate.jpg"
   },
   {
     "Title": "VOC_A2.1_02_0242",
@@ -2175,7 +2175,7 @@
     "Unit": 2,
     "Word": "cold drinks",
     "Translation": "bebidas frias",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit2/colddrinks.jpg"
   },
   {
     "Title": "VOC_A2.1_02_0243",
@@ -2184,7 +2184,7 @@
     "Unit": 2,
     "Word": "Piece of cake",
     "Translation": "Pedazo de pastel",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit2/pieceofcake.jpg"
   },
   {
     "Title": "VOC_A2.1_03_0244",
@@ -2193,7 +2193,7 @@
     "Unit": 3,
     "Word": "Jobs",
     "Translation": "Empleos",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit3/jobs.jpg"
   },
   {
     "Title": "VOC_A2.1_03_0245",
@@ -2202,7 +2202,7 @@
     "Unit": 3,
     "Word": "employment",
     "Translation": "empleo",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit3/employment.jpg"
   },
   {
     "Title": "VOC_A2.1_03_0246",
@@ -2211,7 +2211,7 @@
     "Unit": 3,
     "Word": "employer",
     "Translation": "empleador",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit3/employer.jpg"
   },
   {
     "Title": "VOC_A2.1_03_0247",
@@ -2220,7 +2220,7 @@
     "Unit": 3,
     "Word": "employee",
     "Translation": "empleado",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit3/employee.jpg"
   },
   {
     "Title": "VOC_A2.1_03_0248",
@@ -2229,7 +2229,7 @@
     "Unit": 3,
     "Word": "applicant",
     "Translation": "solicitante",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit3/applicant.jpg"
   },
   {
     "Title": "VOC_A2.1_03_0249",
@@ -2238,7 +2238,7 @@
     "Unit": 3,
     "Word": "application form",
     "Translation": "formulario de solicitud",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit3/applicationform.jpg"
   },
   {
     "Title": "VOC_A2.1_03_0250",
@@ -2247,7 +2247,7 @@
     "Unit": 3,
     "Word": "resume",
     "Translation": "reanudar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit3/resume.jpg"
   },
   {
     "Title": "VOC_A2.1_03_0251",
@@ -2256,7 +2256,7 @@
     "Unit": 3,
     "Word": "letter of reference",
     "Translation": "carta de referencia",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit3/letterofreference.jpg"
   },
   {
     "Title": "VOC_A2.1_03_0252",
@@ -2265,7 +2265,7 @@
     "Unit": 3,
     "Word": "qualification",
     "Translation": "calificación",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit3/qualification.jpg"
   },
   {
     "Title": "VOC_A2.1_03_0253",
@@ -2274,7 +2274,7 @@
     "Unit": 3,
     "Word": "duty",
     "Translation": "deber",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit3/duty.jpg"
   },
   {
     "Title": "VOC_A2.1_03_0254",
@@ -2283,7 +2283,7 @@
     "Unit": 3,
     "Word": "wages",
     "Translation": "salarios",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit3/wages.jpg"
   },
   {
     "Title": "VOC_A2.1_03_0255",
@@ -2292,7 +2292,7 @@
     "Unit": 3,
     "Word": "salary expectation",
     "Translation": "expectativa salarial",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit3/salaryexpectation.jpg"
   },
   {
     "Title": "VOC_A2.1_03_0256",
@@ -2301,7 +2301,7 @@
     "Unit": 3,
     "Word": "payroll",
     "Translation": "nómina de sueldos",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit3/payroll.jpg"
   },
   {
     "Title": "VOC_A2.1_03_0257",
@@ -2310,7 +2310,7 @@
     "Unit": 3,
     "Word": "part-time job",
     "Translation": "trabajo a tiempo parcial",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit3/parttimejob.jpg"
   },
   {
     "Title": "VOC_A2.1_03_0258",
@@ -2319,7 +2319,7 @@
     "Unit": 3,
     "Word": "full-time job",
     "Translation": "trabajo de tiempo completo",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit3/fulltimejob.jpg"
   },
   {
     "Title": "VOC_A2.1_03_0259",
@@ -2328,7 +2328,7 @@
     "Unit": 3,
     "Word": "rise",
     "Translation": "elevar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit3/rise.jpg"
   },
   {
     "Title": "VOC_A2.1_03_0260",
@@ -2337,7 +2337,7 @@
     "Unit": 3,
     "Word": "shift",
     "Translation": "cambio",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit3/shift.jpg"
   },
   {
     "Title": "VOC_A2.1_03_0261",
@@ -2346,7 +2346,7 @@
     "Unit": 3,
     "Word": "trainee",
     "Translation": "aprendiz",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit3/trainee.jpg"
   },
   {
     "Title": "VOC_A2.1_03_0262",
@@ -2355,7 +2355,7 @@
     "Unit": 3,
     "Word": "earn",
     "Translation": "ganar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit3/earn.jpg"
   },
   {
     "Title": "VOC_A2.1_03_0263",
@@ -2364,7 +2364,7 @@
     "Unit": 3,
     "Word": "Pull your leg",
     "Translation": "tira de tu pierna",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit3/pullyourleg.jpg"
   },
   {
     "Title": "VOC_A2.1_04_0264",
@@ -2373,7 +2373,7 @@
     "Unit": 4,
     "Word": "Building rapport",
     "Translation": "Construyendo una buena relación",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit4/buildingrapport.jpg"
   },
   {
     "Title": "VOC_A2.1_04_0265",
@@ -2382,7 +2382,7 @@
     "Unit": 4,
     "Word": "communication skills",
     "Translation": "habilidades de comunicacion",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit4/communicationskills.jpg"
   },
   {
     "Title": "VOC_A2.1_04_0266",
@@ -2391,7 +2391,7 @@
     "Unit": 4,
     "Word": "interpersonal",
     "Translation": "interpersonales",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit4/interpersonal.jpg"
   },
   {
     "Title": "VOC_A2.1_04_0267",
@@ -2400,7 +2400,7 @@
     "Unit": 4,
     "Word": "problem- solving",
     "Translation": "resolución de problemas",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit4/problemsolving.jpg"
   },
   {
     "Title": "VOC_A2.1_04_0268",
@@ -2409,7 +2409,7 @@
     "Unit": 4,
     "Word": "decision- making",
     "Translation": "Toma de decisiones",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit4/decisionmaking.jpg"
   },
   {
     "Title": "VOC_A2.1_04_0269",
@@ -2418,7 +2418,7 @@
     "Unit": 4,
     "Word": "assertiveness",
     "Translation": "asertividad",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit4/assertiveness.jpg"
   },
   {
     "Title": "VOC_A2.1_04_0270",
@@ -2427,7 +2427,7 @@
     "Unit": 4,
     "Word": "self-confidence",
     "Translation": "confianza en sí mismo",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit4/selfconfidence.jpg"
   },
   {
     "Title": "VOC_A2.1_04_0271",
@@ -2436,7 +2436,7 @@
     "Unit": 4,
     "Word": "teamwork",
     "Translation": "trabajo en equipo",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit4/teamwork.jpg"
   },
   {
     "Title": "VOC_A2.1_04_0272",
@@ -2445,7 +2445,7 @@
     "Unit": 4,
     "Word": "team player",
     "Translation": "jugador de equipo",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit4/teamplayer.jpg"
   },
   {
     "Title": "VOC_A2.1_04_0273",
@@ -2454,7 +2454,7 @@
     "Unit": 4,
     "Word": "critical thinking",
     "Translation": "pensamiento crítico",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit4/criticalthinking.jpg"
   },
   {
     "Title": "VOC_A2.1_04_0274",
@@ -2463,7 +2463,7 @@
     "Unit": 4,
     "Word": "time management",
     "Translation": "gestión del tiempo",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit4/timemanagement.jpg"
   },
   {
     "Title": "VOC_A2.1_04_0275",
@@ -2472,7 +2472,7 @@
     "Unit": 4,
     "Word": "constructive feedback",
     "Translation": "retroalimentación constructiva",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit4/constructivefeedback.jpg"
   },
   {
     "Title": "VOC_A2.1_04_0276",
@@ -2481,7 +2481,7 @@
     "Unit": 4,
     "Word": "work ethic",
     "Translation": "ética de trabajo",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit4/workethic.jpg"
   },
   {
     "Title": "VOC_A2.1_04_0277",
@@ -2490,7 +2490,7 @@
     "Unit": 4,
     "Word": "No pain",
     "Translation": "sin dolor",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit4/nopain.jpg"
   },
   {
     "Title": "VOC_A2.1_04_0278",
@@ -2499,7 +2499,7 @@
     "Unit": 4,
     "Word": "no gain",
     "Translation": "sin ganancia",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit4/nogain.jpg"
   },
   {
     "Title": "VOC_A2.1_05_0279",
@@ -2508,7 +2508,7 @@
     "Unit": 5,
     "Word": "Adjectives",
     "Translation": "Adjetivos",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit5/adjectives.jpg"
   },
   {
     "Title": "VOC_A2.1_05_0280",
@@ -2517,7 +2517,7 @@
     "Unit": 5,
     "Word": "active",
     "Translation": "activo",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit5/active.jpg"
   },
   {
     "Title": "VOC_A2.1_05_0281",
@@ -2526,7 +2526,7 @@
     "Unit": 5,
     "Word": "confident",
     "Translation": "seguro",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit5/confident.jpg"
   },
   {
     "Title": "VOC_A2.1_05_0282",
@@ -2535,7 +2535,7 @@
     "Unit": 5,
     "Word": "reliable",
     "Translation": "confiable",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit5/reliable.jpg"
   },
   {
     "Title": "VOC_A2.1_05_0283",
@@ -2544,7 +2544,7 @@
     "Unit": 5,
     "Word": "productive",
     "Translation": "productivo",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit5/productive.jpg"
   },
   {
     "Title": "VOC_A2.1_05_0284",
@@ -2553,7 +2553,7 @@
     "Unit": 5,
     "Word": "advanced",
     "Translation": "avanzado",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit5/advanced.jpg"
   },
   {
     "Title": "VOC_A2.1_05_0285",
@@ -2562,7 +2562,7 @@
     "Unit": 5,
     "Word": "constructive",
     "Translation": "constructivo",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit5/constructive.jpg"
   },
   {
     "Title": "VOC_A2.1_05_0286",
@@ -2571,7 +2571,7 @@
     "Unit": 5,
     "Word": "inspired",
     "Translation": "inspirado",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit5/inspired.jpg"
   },
   {
     "Title": "VOC_A2.1_05_0287",
@@ -2580,7 +2580,7 @@
     "Unit": 5,
     "Word": "determined",
     "Translation": "determinado",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit5/determined.jpg"
   },
   {
     "Title": "VOC_A2.1_05_0288",
@@ -2589,7 +2589,7 @@
     "Unit": 5,
     "Word": "passionate",
     "Translation": "apasionado",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit5/passionate.jpg"
   },
   {
     "Title": "VOC_A2.1_05_0289",
@@ -2598,7 +2598,7 @@
     "Unit": 5,
     "Word": "accountable",
     "Translation": "responsable",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit5/accountable.jpg"
   },
   {
     "Title": "VOC_A2.1_05_0290",
@@ -2607,7 +2607,7 @@
     "Unit": 5,
     "Word": "diligent",
     "Translation": "diligente",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit5/diligent.jpg"
   },
   {
     "Title": "VOC_A2.1_05_0291",
@@ -2616,7 +2616,7 @@
     "Unit": 5,
     "Word": "committed",
     "Translation": "comprometido",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit5/committed.jpg"
   },
   {
     "Title": "VOC_A2.1_05_0292",
@@ -2625,7 +2625,7 @@
     "Unit": 5,
     "Word": "energetic",
     "Translation": "energético",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit5/energetic.jpg"
   },
   {
     "Title": "VOC_A2.1_05_0293",
@@ -2634,7 +2634,7 @@
     "Unit": 5,
     "Word": "enthusiastic",
     "Translation": "entusiasta",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit5/enthusiastic.jpg"
   },
   {
     "Title": "VOC_A2.1_05_0294",
@@ -2643,7 +2643,7 @@
     "Unit": 5,
     "Word": "visionary",
     "Translation": "visionario",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit5/visionary.jpg"
   },
   {
     "Title": "VOC_A2.1_05_0295",
@@ -2652,7 +2652,7 @@
     "Unit": 5,
     "Word": "sophisticated",
     "Translation": "sofisticado",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit5/sophisticated.jpg"
   },
   {
     "Title": "VOC_A2.1_05_0296",
@@ -2661,7 +2661,7 @@
     "Unit": 5,
     "Word": "accurate",
     "Translation": "preciso",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit5/accurate.jpg"
   },
   {
     "Title": "VOC_A2.1_05_0297",
@@ -2670,7 +2670,7 @@
     "Unit": 5,
     "Word": "capable",
     "Translation": "capaz",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit5/capable.jpg"
   },
   {
     "Title": "VOC_A2.1_05_0298",
@@ -2679,7 +2679,7 @@
     "Unit": 5,
     "Word": "Fast talker",
     "Translation": "Hablador rápido",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit5/fasttalker.jpg"
   },
   {
     "Title": "VOC_A2.1_06_0299",
@@ -2688,7 +2688,7 @@
     "Unit": 6,
     "Word": "Verbs related to work",
     "Translation": "Verbos relacionados con el trabajo.",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit6/verbsrelatedtowork.jpg"
   },
   {
     "Title": "VOC_A2.1_06_0300",
@@ -2697,7 +2697,7 @@
     "Unit": 6,
     "Word": "assist",
     "Translation": "asistir",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit6/assist.jpg"
   },
   {
     "Title": "VOC_A2.1_06_0301",
@@ -2706,7 +2706,7 @@
     "Unit": 6,
     "Word": "attend",
     "Translation": "asistir",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit6/attend.jpg"
   },
   {
     "Title": "VOC_A2.1_06_0302",
@@ -2715,7 +2715,7 @@
     "Unit": 6,
     "Word": "provide",
     "Translation": "proporcionar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit6/provide.jpg"
   },
   {
     "Title": "VOC_A2.1_06_0303",
@@ -2724,7 +2724,7 @@
     "Unit": 6,
     "Word": "receive",
     "Translation": "recibir",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit6/receive.jpg"
   },
   {
     "Title": "VOC_A2.1_06_0304",
@@ -2733,7 +2733,7 @@
     "Unit": 6,
     "Word": "get",
     "Translation": "conseguir",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit6/get.jpg"
   },
   {
     "Title": "VOC_A2.1_06_0305",
@@ -2742,7 +2742,7 @@
     "Unit": 6,
     "Word": "book",
     "Translation": "libro",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit6/book.jpg"
   },
   {
     "Title": "VOC_A2.1_06_0306",
@@ -2751,7 +2751,7 @@
     "Unit": 6,
     "Word": "reply",
     "Translation": "responder",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit6/reply.jpg"
   },
   {
     "Title": "VOC_A2.1_06_0307",
@@ -2760,7 +2760,7 @@
     "Unit": 6,
     "Word": "select",
     "Translation": "seleccionar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit6/select.jpg"
   },
   {
     "Title": "VOC_A2.1_06_0308",
@@ -2769,7 +2769,7 @@
     "Unit": 6,
     "Word": "submit",
     "Translation": "entregar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit6/submit.jpg"
   },
   {
     "Title": "VOC_A2.1_06_0309",
@@ -2778,7 +2778,7 @@
     "Unit": 6,
     "Word": "apologize",
     "Translation": "disculparse",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit6/apologize.jpg"
   },
   {
     "Title": "VOC_A2.1_06_0310",
@@ -2787,7 +2787,7 @@
     "Unit": 6,
     "Word": "talk about",
     "Translation": "hablar de",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit6/talkabout.jpg"
   },
   {
     "Title": "VOC_A2.1_06_0311",
@@ -2796,7 +2796,7 @@
     "Unit": 6,
     "Word": "make sure",
     "Translation": "Cerciorarse",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit6/makesure.jpg"
   },
   {
     "Title": "VOC_A2.1_06_0312",
@@ -2805,7 +2805,7 @@
     "Unit": 6,
     "Word": "get in touch",
     "Translation": "ponte en contacto",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit6/getintouch.jpg"
   },
   {
     "Title": "VOC_A2.1_06_0313",
@@ -2814,7 +2814,7 @@
     "Unit": 6,
     "Word": "recruit",
     "Translation": "recluta",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit6/recruit.jpg"
   },
   {
     "Title": "VOC_A2.1_06_0314",
@@ -2823,7 +2823,7 @@
     "Unit": 6,
     "Word": "reject",
     "Translation": "rechazar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit6/reject.jpg"
   },
   {
     "Title": "VOC_A2.1_06_0315",
@@ -2832,7 +2832,7 @@
     "Unit": 6,
     "Word": "return",
     "Translation": "devolver",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit6/return.jpg"
   },
   {
     "Title": "VOC_A2.1_06_0316",
@@ -2841,7 +2841,7 @@
     "Unit": 6,
     "Word": "employ",
     "Translation": "emplear",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit6/employ.jpg"
   },
   {
     "Title": "VOC_A2.1_06_0317",
@@ -2850,7 +2850,7 @@
     "Unit": 6,
     "Word": "Music to one’s ears",
     "Translation": "Música para los oídos",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit6/musictoonesears.jpg"
   },
   {
     "Title": "VOC_A2.1_07_0318",
@@ -2859,7 +2859,7 @@
     "Unit": 7,
     "Word": "Leadership",
     "Translation": "Liderazgo",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit7/leadership.jpg"
   },
   {
     "Title": "VOC_A2.1_07_0319",
@@ -2868,7 +2868,7 @@
     "Unit": 7,
     "Word": "guidance",
     "Translation": "guía",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit7/guidance.jpg"
   },
   {
     "Title": "VOC_A2.1_07_0320",
@@ -2877,7 +2877,7 @@
     "Unit": 7,
     "Word": "initiative",
     "Translation": "iniciativa",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit7/initiative.jpg"
   },
   {
     "Title": "VOC_A2.1_07_0321",
@@ -2886,7 +2886,7 @@
     "Unit": 7,
     "Word": "advocacy",
     "Translation": "defensa",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit7/advocacy.jpg"
   },
   {
     "Title": "VOC_A2.1_07_0322",
@@ -2895,7 +2895,7 @@
     "Unit": 7,
     "Word": "networking",
     "Translation": "redes",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit7/networking.jpg"
   },
   {
     "Title": "VOC_A2.1_07_0323",
@@ -2904,7 +2904,7 @@
     "Unit": 7,
     "Word": "responsibility",
     "Translation": "responsabilidad",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit7/responsibility.jpg"
   },
   {
     "Title": "VOC_A2.1_07_0324",
@@ -2913,7 +2913,7 @@
     "Unit": 7,
     "Word": "empathy",
     "Translation": "empatía",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit7/empathy.jpg"
   },
   {
     "Title": "VOC_A2.1_07_0325",
@@ -2922,7 +2922,7 @@
     "Unit": 7,
     "Word": "flexibility",
     "Translation": "flexibilidad",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit7/flexibility.jpg"
   },
   {
     "Title": "VOC_A2.1_07_0326",
@@ -2931,7 +2931,7 @@
     "Unit": 7,
     "Word": "open-minded",
     "Translation": "de mente abierta",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit7/openminded.jpg"
   },
   {
     "Title": "VOC_A2.1_07_0327",
@@ -2940,7 +2940,7 @@
     "Unit": 7,
     "Word": "trustworthy",
     "Translation": "confiable",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit7/trustworthy.jpg"
   },
   {
     "Title": "VOC_A2.1_07_0328",
@@ -2949,7 +2949,7 @@
     "Unit": 7,
     "Word": "mentor",
     "Translation": "mentor",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit7/mentor.jpg"
   },
   {
     "Title": "VOC_A2.1_07_0329",
@@ -2958,7 +2958,7 @@
     "Unit": 7,
     "Word": "perceptive",
     "Translation": "perceptivo",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit7/perceptive.jpg"
   },
   {
     "Title": "VOC_A2.1_07_0330",
@@ -2967,7 +2967,7 @@
     "Unit": 7,
     "Word": "intuitive",
     "Translation": "intuitivo",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit7/intuitive.jpg"
   },
   {
     "Title": "VOC_A2.1_07_0331",
@@ -2976,7 +2976,7 @@
     "Unit": 7,
     "Word": "cultivate",
     "Translation": "cultivar",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit7/cultivate.jpg"
   },
   {
     "Title": "VOC_A2.1_07_0332",
@@ -2985,7 +2985,7 @@
     "Unit": 7,
     "Word": "Catch one’s eye",
     "Translation": "Llamar la atención",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit7/catchoneseye.jpg"
   },
   {
     "Title": "VOC_A2.1_08_0333",
@@ -2994,7 +2994,7 @@
     "Unit": 8,
     "Word": "Interview tips",
     "Translation": "Consejos para la entrevista",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit8/interviewtips.jpg"
   },
   {
     "Title": "VOC_A2.1_08_0334",
@@ -3003,7 +3003,7 @@
     "Unit": 8,
     "Word": "I can",
     "Translation": "Puedo",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit8/ican.jpg"
   },
   {
     "Title": "VOC_A2.1_08_0335",
@@ -3012,7 +3012,7 @@
     "Unit": 8,
     "Word": "I look forward to",
     "Translation": "Espero con ansias",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit8/ilookforwardto.jpg"
   },
   {
     "Title": "VOC_A2.1_08_0336",
@@ -3021,7 +3021,7 @@
     "Unit": 8,
     "Word": "respect",
     "Translation": "respeto",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit8/respect.jpg"
   },
   {
     "Title": "VOC_A2.1_08_0337",
@@ -3030,7 +3030,7 @@
     "Unit": 8,
     "Word": "opportunity",
     "Translation": "oportunidad",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit8/opportunity.jpg"
   },
   {
     "Title": "VOC_A2.1_08_0338",
@@ -3039,7 +3039,7 @@
     "Unit": 8,
     "Word": "experience",
     "Translation": "experiencia",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit8/experience.jpg"
   },
   {
     "Title": "VOC_A2.1_08_0339",
@@ -3048,7 +3048,7 @@
     "Unit": 8,
     "Word": "skills",
     "Translation": "habilidades",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit8/skills.jpg"
   },
   {
     "Title": "VOC_A2.1_08_0340",
@@ -3057,7 +3057,7 @@
     "Unit": 8,
     "Word": "goals",
     "Translation": "objetivos",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit8/goals.jpg"
   },
   {
     "Title": "VOC_A2.1_08_0341",
@@ -3066,7 +3066,7 @@
     "Unit": 8,
     "Word": "flexible",
     "Translation": "flexible",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit8/flexible.jpg"
   },
   {
     "Title": "VOC_A2.1_08_0342",
@@ -3075,7 +3075,7 @@
     "Unit": 8,
     "Word": "mission statement",
     "Translation": "declaración de misión",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit8/missionstatement.jpg"
   },
   {
     "Title": "VOC_A2.1_08_0343",
@@ -3084,7 +3084,7 @@
     "Unit": 8,
     "Word": "reliable",
     "Translation": "confiable",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit8/reliable.jpg"
   },
   {
     "Title": "VOC_A2.1_08_0344",
@@ -3093,7 +3093,7 @@
     "Unit": 8,
     "Word": "methodical",
     "Translation": "metódico",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit8/methodical.jpg"
   },
   {
     "Title": "VOC_A2.1_08_0345",
@@ -3102,7 +3102,7 @@
     "Unit": 8,
     "Word": "focused",
     "Translation": "enfocado",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit8/focused.jpg"
   },
   {
     "Title": "VOC_A2.1_08_0346",
@@ -3111,7 +3111,7 @@
     "Unit": 8,
     "Word": "Break a leg",
     "Translation": "romper una pierna",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit8/breakaleg.jpg"
   },
   {
     "Title": "VOC_A2.2_01_0347",
@@ -10428,7 +10428,7 @@
     "Unit": 1,
     "Word": "Rally the troops",
     "Translation": "reunir y motivar al equipo",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit1/rallythetroops.jpg"
   },
   {
     "Title": "VOC_A1.2_01_1160",
@@ -10437,7 +10437,7 @@
     "Unit": 1,
     "Word": "Raise the bar",
     "Translation": "elevar el nivel",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit1/raisethebar.jpg"
   },
   {
     "Title": "VOC_A1.2_02_1161",
@@ -10446,7 +10446,7 @@
     "Unit": 2,
     "Word": "Hit it out of the park",
     "Translation": "hacerlo extraordinariamente bien",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit2/hititoutofthepark.jpg"
   },
   {
     "Title": "VOC_A1.2_02_1162",
@@ -10455,7 +10455,7 @@
     "Unit": 2,
     "Word": "Go down the drain",
     "Translation": "irse por el desagüe",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit2/godownthedrain.jpg"
   },
   {
     "Title": "VOC_A1.2_03_1163",
@@ -10464,7 +10464,7 @@
     "Unit": 3,
     "Word": "Jump through hoops",
     "Translation": "sortear muchos obstáculos",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit3/jumpthroughhoops.jpg"
   },
   {
     "Title": "VOC_A1.2_03_1164",
@@ -10473,7 +10473,7 @@
     "Unit": 3,
     "Word": "Big picture",
     "Translation": "visión general",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit3/bigpicture.jpg"
   },
   {
     "Title": "VOC_A1.2_04_1165",
@@ -10482,7 +10482,7 @@
     "Unit": 4,
     "Word": "Couch potato",
     "Translation": "persona que pasa mucho tiempo viendo televisión",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit4/couchpotato.jpg"
   },
   {
     "Title": "VOC_A1.2_04_1166",
@@ -10491,7 +10491,7 @@
     "Unit": 4,
     "Word": "Bring home the bacon",
     "Translation": "ganarse el sustento",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit4/bringhomethebacon.jpg"
   },
   {
     "Title": "VOC_A1.2_05_1167",
@@ -10500,7 +10500,7 @@
     "Unit": 5,
     "Word": "Compare apples to oranges",
     "Translation": "comparar cosas incomparables",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit5/compareapplestooranges.jpg"
   },
   {
     "Title": "VOC_A1.2_05_1168",
@@ -10509,7 +10509,7 @@
     "Unit": 5,
     "Word": "Like shooting fish in a barrel",
     "Translation": "ser muy fácil",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit5/likeshootingfishinabarrel.jpg"
   },
   {
     "Title": "VOC_A1.2_06_1169",
@@ -10518,7 +10518,7 @@
     "Unit": 6,
     "Word": "My gut tells me",
     "Translation": "mi intuición me dice",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit6/myguttellsme.jpg"
   },
   {
     "Title": "VOC_A1.2_06_1170",
@@ -10527,7 +10527,7 @@
     "Unit": 6,
     "Word": "Take a break",
     "Translation": "tomar un descanso",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit6/takeabreak.jpg"
   },
   {
     "Title": "VOC_A1.2_07_1171",
@@ -10536,7 +10536,7 @@
     "Unit": 7,
     "Word": "Deliver the goods",
     "Translation": "cumplir lo prometido",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit7/deliverthegoods.jpg"
   },
   {
     "Title": "VOC_A1.2_07_1172",
@@ -10545,7 +10545,7 @@
     "Unit": 7,
     "Word": "Throw someone under the bus",
     "Translation": "sacrificar o culpar a alguien",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit7/throwsomeoneunderthebus.jpg"
   },
   {
     "Title": "VOC_A1.2_08_1173",
@@ -10554,7 +10554,7 @@
     "Unit": 8,
     "Word": "Selling point",
     "Translation": "argumento de venta",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit8/sellingpoint.jpg"
   },
   {
     "Title": "VOC_A1.2_08_1174",
@@ -10563,7 +10563,7 @@
     "Unit": 8,
     "Word": "On the ball",
     "Translation": "estar atento y ser competente",
-    "ImageUrl": ""
+    "ImageUrl": "images/a1.2/unit8/ontheball.jpg"
   },
   {
     "Title": "VOC_A2.1_01_1175",
@@ -10572,7 +10572,7 @@
     "Unit": 1,
     "Word": "Think outside the box",
     "Translation": "pensar de manera creativa",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit1/thinkoutsidethebox.jpg"
   },
   {
     "Title": "VOC_A2.1_01_1176",
@@ -10581,7 +10581,7 @@
     "Unit": 1,
     "Word": "Ahead of the pack",
     "Translation": "por delante de los demás",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit1/aheadofthepack.jpg"
   },
   {
     "Title": "VOC_A2.1_02_1177",
@@ -10590,7 +10590,7 @@
     "Unit": 2,
     "Word": "Bad egg",
     "Translation": "mala persona",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit2/badegg.jpg"
   },
   {
     "Title": "VOC_A2.1_02_1178",
@@ -10599,7 +10599,7 @@
     "Unit": 2,
     "Word": "Full of beans",
     "Translation": "lleno de energía",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit2/fullofbeans.jpg"
   },
   {
     "Title": "VOC_A2.1_03_1179",
@@ -10608,7 +10608,7 @@
     "Unit": 3,
     "Word": "Under the weather",
     "Translation": "sentirse mal",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit3/undertheweather.jpg"
   },
   {
     "Title": "VOC_A2.1_03_1180",
@@ -10617,7 +10617,7 @@
     "Unit": 3,
     "Word": "Speak of the devil",
     "Translation": "hablando del rey de Roma",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit3/speakofthedevil.jpg"
   },
   {
     "Title": "VOC_A2.1_04_1181",
@@ -10626,7 +10626,7 @@
     "Unit": 4,
     "Word": "No pain, no gain",
     "Translation": "sin esfuerzo no hay resultado",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit4/nopainnogain.jpg"
   },
   {
     "Title": "VOC_A2.1_04_1182",
@@ -10635,7 +10635,7 @@
     "Unit": 4,
     "Word": "So far, so good",
     "Translation": "hasta ahora todo bien",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit4/sofarsogood.jpg"
   },
   {
     "Title": "VOC_A2.1_04_1183",
@@ -10644,7 +10644,7 @@
     "Unit": 4,
     "Word": "Back to square one",
     "Translation": "volver al punto de partida",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit4/backtosquareone.jpg"
   },
   {
     "Title": "VOC_A2.1_05_1184",
@@ -10653,7 +10653,7 @@
     "Unit": 5,
     "Word": "As clean as a whistle",
     "Translation": "muy limpio",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit5/ascleanasawhistle.jpg"
   },
   {
     "Title": "VOC_A2.1_05_1185",
@@ -10662,7 +10662,7 @@
     "Unit": 5,
     "Word": "Big headed",
     "Translation": "engreído",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit5/bigheaded.jpg"
   },
   {
     "Title": "VOC_A2.1_06_1186",
@@ -10671,7 +10671,7 @@
     "Unit": 6,
     "Word": "That’s the last straw",
     "Translation": "esa es la gota que derrama el vaso",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit6/thatsthelaststraw.jpg"
   },
   {
     "Title": "VOC_A2.1_06_1187",
@@ -10680,7 +10680,7 @@
     "Unit": 6,
     "Word": "Go the extra mile",
     "Translation": "hacer un esfuerzo adicional",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit6/gotheextramile.jpg"
   },
   {
     "Title": "VOC_A2.1_07_1188",
@@ -10689,7 +10689,7 @@
     "Unit": 7,
     "Word": "Barking up the wrong tree",
     "Translation": "equivocarse de persona o enfoque",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit7/barkingupthewrongtree.jpg"
   },
   {
     "Title": "VOC_A2.1_07_1189",
@@ -10698,7 +10698,7 @@
     "Unit": 7,
     "Word": "Money talks",
     "Translation": "el dinero manda",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit7/moneytalks.jpg"
   },
   {
     "Title": "VOC_A2.1_08_1190",
@@ -10707,7 +10707,7 @@
     "Unit": 8,
     "Word": "Go down the drain",
     "Translation": "irse por el desagüe",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit8/godownthedrain.jpg"
   },
   {
     "Title": "VOC_A2.1_08_1191",
@@ -10716,6 +10716,6 @@
     "Unit": 8,
     "Word": "Be a long shot",
     "Translation": "tener pocas probabilidades",
-    "ImageUrl": ""
+    "ImageUrl": "images/a2.1/unit8/bealongshot.jpg"
   }
 ]
