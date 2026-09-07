@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>English Journey Vocabulary</title>
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Antonio:wght@400;700&family=Montserrat:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body><main class="container">
+<div class="logo-intecap"><img src="logo-intecap.png" alt="INTECAP"></div>
+<header class="banner"><img src="logo-ingles-para-todos.png" alt="English Journey"><h1>ENGLISH JOURNEY</h1><h2>Vocabulary</h2></header>
+<details><summary>📖 Ver Ficha Técnica e Instrucciones</summary><div class="institutional-content"><p><strong>Skill:</strong> Vocabulary</p><p><strong>CEFR Level:</strong> A1–B1</p><p><strong>Tiempo estimado:</strong> 10–20 minutos</p><h3>Objetivo de aprendizaje</h3><p>Reconocer, pronunciar y recuperar vocabulario funcional en inglés mediante práctica visual, auditiva y active recall.</p><h3>Instrucciones del estudiante</h3><ol><li>Selecciona nivel, subnivel y unidad.</li><li>Escucha la palabra a 1x o 0.85x.</li><li>Intenta recordar su significado antes de girar la tarjeta.</li><li>Usa Flashcards Aleatorias para comprobar tu recuperación.</li></ol><h3>Validación del instructor</h3><p>Modela la pronunciación, pide una oración con la palabra y valida que el estudiante relacione sonido, significado e imagen.</p></div></details>
+<section class="controls"><label>Level<select id="level"></select></label><label>Sublevel<select id="sublevel"></select></label><label>Unit<select id="unit"></select></label><label>Audio speed<select id="speed"><option value="1">1x</option><option value="0.85">0.85x</option></select></label></section>
+<div class="toolbar"><span id="count"></span><button class="btn-listen" id="stopAudio">⏹ Detener audio</button></div>
+<section id="grid" class="grid"></section>
+<section class="random-section"><div class="section-heading"><div><h2>🎴 Flashcards Aleatorias</h2><p>Selecciona una tarjeta al azar y gírala para revelar la traducción.</p></div><button class="btn-primary" id="newCard">Nueva tarjeta</button></div><div id="flashcard" class="flashcard" tabindex="0" role="button" aria-label="Flashcard aleatoria"></div></section>
+</main><script src="script.js"></script></body></html>
