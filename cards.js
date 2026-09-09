@@ -59,8 +59,55 @@ showCard = function(word) {
   host.removeAttribute('aria-label');
   host.onclick = null;
   host.onkeydown = null;
-  host.innerHTML = practiceCard(word, true);
-  connectCards(host, [word]);
+  host.innerHTML = `<article class="image-guess-card">
+    <button type="button" class="card-turn" aria-expanded="false" aria-label="Revelar la palabra en inglés">
+      <span class="turn-inner">
+        <span class="turn-front"><img src="${escapeCard(word.ImageUrl)}" alt="Imagen para adivinar la palabra en inglés"><span class="turn-hint">¿Cómo se dice en inglés? Dilo antes de voltear.</span></span>
+        <span class="turn-back" aria-hidden="true"><span class="word" lang="en">${escapeCard(word.Word)}</span><span class="turn-hint">Usa la palabra en una oración y haz una pregunta a tu compañero. Toca para volver a la imagen.</span></span>
+      </span>
+    </button>
+    <div class="image-answer-actions" hidden><button type="button" class="btn-listen">🔊 Escuchar palabra</button></div>
+  </article>`;
+  const card = host.querySelector('.image-guess-card');
+  const button = card.querySelector('.card-turn');
+  button.onclick = () => {
+    const flipped = card.classList.toggle('flipped');
+    button.setAttribute('aria-expanded', String(flipped));
+    button.setAttribute('aria-label', flipped ? 'Volver a la imagen' : 'Revelar la palabra en inglés');
+    card.querySelector('.turn-front').setAttribute('aria-hidden', String(flipped));
+    card.querySelector('.turn-back').setAttribute('aria-hidden', String(!flipped));
+    card.querySelector('.image-answer-actions').hidden = !flipped;
+  };
+  card.querySelector('.btn-listen').onclick = () => speak(word.Word);
+};
+let imageRound = 0;
+newCard = async function() {
+  const round = ++imageRound;
+  const previous = state.card;
+  const candidates = shuffle(state.list.filter(word => String(word.ImageUrl || '').trim()));
+  // Prefer another image, but keep the only available card playable.
+  candidates.sort((a, b) => Number(a === previous) - Number(b === previous));
+  const host = $('flashcard');
+  host.className = 'random-card-host';
+  host.removeAttribute('tabindex');
+  host.removeAttribute('role');
+  host.removeAttribute('aria-label');
+  host.onclick = null;
+  host.onkeydown = null;
+  state.card = null;
+  host.innerHTML = '<p role="status">Buscando una imagen…</p>';
+  for (const word of candidates) {
+    const loaded = await new Promise(resolve => {
+      const picture = new Image();
+      const timer = setTimeout(() => resolve(false), 4000);
+      picture.onload = () => { clearTimeout(timer); resolve(true); };
+      picture.onerror = () => { clearTimeout(timer); resolve(false); };
+      picture.src = word.ImageUrl;
+    });
+    if (round !== imageRound) return;
+    if (loaded) { showCard(word); return; }
+  }
+  if (round === imageRound) host.innerHTML = '<p role="status">No hay imágenes disponibles para este juego en la unidad seleccionada. Elige otra unidad para jugar.</p>';
 };
 const bindOriginal = bind;
 bind = function() {

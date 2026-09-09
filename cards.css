@@ -25,3 +25,5 @@
 .random-card .turn-front,.random-card .turn-back{min-height:300px}
 .random-card.show-all .turn-front,.random-card.show-all .turn-back{min-height:0}
 @media(prefers-reduced-motion:reduce){.turn-inner{transition:none}}
+
+.image-guess-card{border:2px solid #0060aa;border-radius:16px;overflow:hidden;background:#fff}.image-guess-card .turn-front,.image-guess-card .turn-back{min-height:340px}.image-guess-card .turn-front img{height:250px;object-fit:contain;background:#fff}.image-guess-card .turn-back .word{font-size:32px}.image-answer-actions{padding:0 16px 16px}.image-answer-actions[hidden]{display:none}
