@@ -4,7 +4,7 @@
     "Level": "A1",
     "Sublevel": "A1.1",
     "Unit": 1,
-    "Word": "Vowels and Consonants",
+    "Word": "Vowels",
     "Translation": "Vocales y Consonantes",
     "ImageUrl": ""
   },
@@ -22,7 +22,7 @@
     "Level": "A1",
     "Sublevel": "A1.1",
     "Unit": 1,
-    "Word": "Small Letters",
+    "Word": "Lowercase Letters",
     "Translation": "Letras minúsculas",
     "ImageUrl": ""
   },
@@ -31,8 +31,8 @@
     "Level": "A1",
     "Sublevel": "A1.1",
     "Unit": 1,
-    "Word": "Short and long vowel sounds",
-    "Translation": "Sonidos de vocales cortas y largas.",
+    "Word": "Consonants",
+    "Translation": "Consonantes",
     "ImageUrl": ""
   },
   {
@@ -40,8 +40,8 @@
     "Level": "A1",
     "Sublevel": "A1.1",
     "Unit": 1,
-    "Word": "Numbers 1 – 100",
-    "Translation": "Números 1 – 100",
+    "Word": "Long vowel sounds",
+    "Translation": "Sonidos de vocal larga",
     "ImageUrl": ""
   },
   {
@@ -49,8 +49,8 @@
     "Level": "A1",
     "Sublevel": "A1.1",
     "Unit": 2,
-    "Word": "Plus ()",
-    "Translation": "Más ()",
+    "Word": "Plus sign",
+    "Translation": "Signo Más",
     "ImageUrl": ""
   },
   {
@@ -58,8 +58,8 @@
     "Level": "A1",
     "Sublevel": "A1.1",
     "Unit": 2,
-    "Word": "Minus (-)",
-    "Translation": "Menos (-)",
+    "Word": "Minus sign",
+    "Translation": "Signo Menos",
     "ImageUrl": ""
   },
   {
@@ -67,8 +67,8 @@
     "Level": "A1",
     "Sublevel": "A1.1",
     "Unit": 2,
-    "Word": "Times (x)",
-    "Translation": "Veces (x)",
+    "Word": "Multiplication sign / Times",
+    "Translation": "Signo de multiplicación / Veces",
     "ImageUrl": ""
   },
   {
@@ -76,8 +76,8 @@
     "Level": "A1",
     "Sublevel": "A1.1",
     "Unit": 2,
-    "Word": "Divided by ()",
-    "Translation": "Dividido por ()",
+    "Word": "Divided by",
+    "Translation": "Dividido por",
     "ImageUrl": ""
   },
   {
@@ -301,8 +301,8 @@
     "Level": "A1",
     "Sublevel": "A1.1",
     "Unit": 5,
-    "Word": "(o’clock",
-    "Translation": "(en punto",
+    "Word": "o’clock",
+    "Translation": "en punto",
     "ImageUrl": ""
   },
   {
@@ -319,8 +319,8 @@
     "Level": "A1",
     "Sublevel": "A1.1",
     "Unit": 5,
-    "Word": "to)",
-    "Translation": "a)",
+    "Word": "watch",
+    "Translation": "reloj de pulsera",
     "ImageUrl": ""
   },
   {
@@ -346,8 +346,8 @@
     "Level": "A1",
     "Sublevel": "A1.1",
     "Unit": 5,
-    "Word": "At",
-    "Translation": "En",
+    "Word": "Clock / Hands clock",
+    "Translation": "Reloj / reloj de manecillas",
     "ImageUrl": ""
   },
   {
@@ -1886,7 +1886,7 @@
     "Sublevel": "A2.1",
     "Unit": 1,
     "Word": "clearance",
-    "Translation": "autorización",
+    "Translation": "liquidación",
     "ImageUrl": "images/a2.1/unit1/clearance.jpg"
   },
   {
@@ -2245,8 +2245,8 @@
     "Level": "A2",
     "Sublevel": "A2.1",
     "Unit": 3,
-    "Word": "resume",
-    "Translation": "reanudar",
+    "Word": "resumé",
+    "Translation": "Hoja de vida / CV",
     "ImageUrl": "images/a2.1/unit3/resume.jpg"
   },
   {
@@ -2336,7 +2336,7 @@
     "Sublevel": "A2.1",
     "Unit": 3,
     "Word": "shift",
-    "Translation": "cambio",
+    "Translation": "turno",
     "ImageUrl": "images/a2.1/unit3/shift.jpg"
   },
   {
@@ -2363,7 +2363,7 @@
     "Sublevel": "A2.1",
     "Unit": 3,
     "Word": "Pull your leg",
-    "Translation": "tira de tu pierna",
+    "Translation": "Hacerte bromas",
     "ImageUrl": "images/a2.1/unit3/pullyourleg.jpg"
   },
   {
@@ -2381,7 +2381,7 @@
     "Sublevel": "A2.1",
     "Unit": 4,
     "Word": "communication skills",
-    "Translation": "habilidades de comunicacion",
+    "Translation": "habilidades de comunicaci{on",
     "ImageUrl": "images/a2.1/unit4/communicationskills.jpg"
   },
   {
