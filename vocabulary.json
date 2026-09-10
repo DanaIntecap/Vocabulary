@@ -3086,7 +3086,7 @@
     "Unit": 5,
     "Word": "confident",
     "Translation": "seguro",
-    "ImageUrl": "images/a2.1/unit5/confident.jpg",
+    "ImageUrl": "images/a2.1/unit5/confident.png",
     "IPA": "/ˈkɑnfədənt/",
     "PronunciationGuide": "kán-fa-dant"
   },
@@ -3097,7 +3097,7 @@
     "Unit": 5,
     "Word": "reliable",
     "Translation": "confiable",
-    "ImageUrl": "images/a2.1/unit5/reliable.jpg",
+    "ImageUrl": "images/a2.1/unit5/reliable.png",
     "IPA": "/rɪˈlaɪəbəl/",
     "PronunciationGuide": "ri-lái-a-bal"
   },
@@ -3108,7 +3108,7 @@
     "Unit": 5,
     "Word": "productive",
     "Translation": "productivo",
-    "ImageUrl": "images/a2.1/unit5/productive.jpg",
+    "ImageUrl": "images/a2.1/unit5/productive.png",
     "IPA": "/prəˈdʌktɪv/",
     "PronunciationGuide": "pra-dák-tiv"
   },
@@ -3119,7 +3119,7 @@
     "Unit": 5,
     "Word": "advanced",
     "Translation": "avanzado",
-    "ImageUrl": "images/a2.1/unit5/advanced.jpg",
+    "ImageUrl": "images/a2.1/unit5/advanced.png",
     "IPA": "/ədˈvænst/",
     "PronunciationGuide": "ad-vánst"
   },
@@ -3130,7 +3130,7 @@
     "Unit": 5,
     "Word": "constructive",
     "Translation": "constructivo",
-    "ImageUrl": "images/a2.1/unit5/constructive.jpg",
+    "ImageUrl": "images/a2.1/unit5/constructive.png",
     "IPA": "/kənˈstrʌktɪv/",
     "PronunciationGuide": "kan-strák-tiv"
   },
@@ -3163,7 +3163,7 @@
     "Unit": 5,
     "Word": "passionate",
     "Translation": "apasionado",
-    "ImageUrl": "images/a2.1/unit5/passionate.jpg",
+    "ImageUrl": "images/a2.1/unit5/passionate.png",
     "IPA": "/ˈpæʃənət/",
     "PronunciationGuide": "pásh-a-nat"
   },
@@ -11715,94 +11715,6 @@
     "PronunciationGuide": "tuén-ti uan"
   },
   {
-    "Title": "VOC_A1.1_01_1066",
-    "Level": "A1",
-    "Sublevel": "A1.1",
-    "Unit": 1,
-    "Word": "twenty-two",
-    "Translation": "veintidós",
-    "ImageUrl": "",
-    "IPA": "/ˈtwɛnti tuː/",
-    "PronunciationGuide": "tuén-ti tuu"
-  },
-  {
-    "Title": "VOC_A1.1_01_1067",
-    "Level": "A1",
-    "Sublevel": "A1.1",
-    "Unit": 1,
-    "Word": "twenty-three",
-    "Translation": "veintitrés",
-    "ImageUrl": "",
-    "IPA": "/ˈtwɛnti θriː/",
-    "PronunciationGuide": "tuén-ti zrii"
-  },
-  {
-    "Title": "VOC_A1.1_01_1068",
-    "Level": "A1",
-    "Sublevel": "A1.1",
-    "Unit": 1,
-    "Word": "twenty-four",
-    "Translation": "veinticuatro",
-    "ImageUrl": "",
-    "IPA": "/ˈtwɛnti fɔr/",
-    "PronunciationGuide": "tuén-ti for"
-  },
-  {
-    "Title": "VOC_A1.1_01_1069",
-    "Level": "A1",
-    "Sublevel": "A1.1",
-    "Unit": 1,
-    "Word": "twenty-five",
-    "Translation": "veinticinco",
-    "ImageUrl": "",
-    "IPA": "/ˈtwɛnti faɪv/",
-    "PronunciationGuide": "tuén-ti faiv"
-  },
-  {
-    "Title": "VOC_A1.1_01_1070",
-    "Level": "A1",
-    "Sublevel": "A1.1",
-    "Unit": 1,
-    "Word": "twenty-six",
-    "Translation": "veintiséis",
-    "ImageUrl": "",
-    "IPA": "/ˈtwɛnti sɪks/",
-    "PronunciationGuide": "tuén-ti siks"
-  },
-  {
-    "Title": "VOC_A1.1_01_1071",
-    "Level": "A1",
-    "Sublevel": "A1.1",
-    "Unit": 1,
-    "Word": "twenty-seven",
-    "Translation": "veintisiete",
-    "ImageUrl": "",
-    "IPA": "/ˈtwɛnti ˈsɛvən/",
-    "PronunciationGuide": "tuén-ti sév-an"
-  },
-  {
-    "Title": "VOC_A1.1_01_1072",
-    "Level": "A1",
-    "Sublevel": "A1.1",
-    "Unit": 1,
-    "Word": "twenty-eight",
-    "Translation": "veintiocho",
-    "ImageUrl": "",
-    "IPA": "/ˈtwɛnti eɪt/",
-    "PronunciationGuide": "tuén-ti eit"
-  },
-  {
-    "Title": "VOC_A1.1_01_1073",
-    "Level": "A1",
-    "Sublevel": "A1.1",
-    "Unit": 1,
-    "Word": "twenty-nine",
-    "Translation": "veintinueve",
-    "ImageUrl": "",
-    "IPA": "/ˈtwɛnti naɪn/",
-    "PronunciationGuide": "tuén-ti nain"
-  },
-  {
     "Title": "VOC_A1.1_01_1074",
     "Level": "A1",
     "Sublevel": "A1.1",
@@ -11812,6 +11724,83 @@
     "ImageUrl": "",
     "IPA": "/ˈθɝˌdiː/",
     "PronunciationGuide": "zér-dii"
+  },
+  {
+    "Title": "VOC_A1.1_01_1066",
+    "Level": "A1",
+    "Sublevel": "A1.1",
+    "Unit": 1,
+    "Word": "thirty-two",
+    "Translation": "treinta y dos",
+    "ImageUrl": "",
+    "IPA": "/ˌθɝti ˈtuː/",
+    "PronunciationGuide": "zér-ti túu"
+  },
+  {
+    "Title": "VOC_A1.1_01_1067",
+    "Level": "A1",
+    "Sublevel": "A1.1",
+    "Unit": 1,
+    "Word": "forty-three",
+    "Translation": "cuarenta y tres",
+    "ImageUrl": "",
+    "IPA": "/ˌfɔrti ˈθriː/",
+    "PronunciationGuide": "fór-ti zríi"
+  },
+  {
+    "Title": "VOC_A1.1_01_1068",
+    "Level": "A1",
+    "Sublevel": "A1.1",
+    "Unit": 1,
+    "Word": "fifty-four",
+    "Translation": "cincuenta y cuatro",
+    "ImageUrl": "",
+    "IPA": "/ˌfɪfti ˈfɔr/",
+    "PronunciationGuide": "fíf-ti fór"
+  },
+  {
+    "Title": "VOC_A1.1_01_1069",
+    "Level": "A1",
+    "Sublevel": "A1.1",
+    "Unit": 1,
+    "Word": "sixty-five",
+    "Translation": "sesenta y cinco",
+    "ImageUrl": "",
+    "IPA": "/ˌsɪksti ˈfaɪv/",
+    "PronunciationGuide": "síks-ti fáiv"
+  },
+  {
+    "Title": "VOC_A1.1_01_1070",
+    "Level": "A1",
+    "Sublevel": "A1.1",
+    "Unit": 1,
+    "Word": "seventy-six",
+    "Translation": "setenta y seis",
+    "ImageUrl": "",
+    "IPA": "/ˌsɛvənti ˈsɪks/",
+    "PronunciationGuide": "sé-ven-ti síks"
+  },
+  {
+    "Title": "VOC_A1.1_01_1071",
+    "Level": "A1",
+    "Sublevel": "A1.1",
+    "Unit": 1,
+    "Word": "eighty-seven",
+    "Translation": "ochenta y siete",
+    "ImageUrl": "",
+    "IPA": "/ˌeɪti ˈsɛvən/",
+    "PronunciationGuide": "éi-ti sév-en"
+  },
+  {
+    "Title": "VOC_A1.1_01_1072",
+    "Level": "A1",
+    "Sublevel": "A1.1",
+    "Unit": 1,
+    "Word": "ninety-eight",
+    "Translation": "noventa y ocho",
+    "ImageUrl": "",
+    "IPA": "/ˌnaɪnti ˈeɪt/",
+    "PronunciationGuide": "náin-ti éit"
   },
   {
     "Title": "VOC_A1.1_01_1075",
