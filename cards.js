@@ -1,6 +1,9 @@
 // Shared behavior for vocabulary cards and the random practice card.
 state.showAll = false;
 const escapeCard = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+function exampleSentence(word) {
+  return word.ExampleSentence ? `<span class="example-sentence"><span class="pronunciation-label">Ejemplo · Simple present</span><span lang="en">${escapeCard(word.ExampleSentence)}</span></span>` : '';
+}
 function practiceCard(word, random = false) {
   const ipa = word.IPA || '';
   const guide = word.PronunciationGuide || '';
@@ -8,7 +11,7 @@ function practiceCard(word, random = false) {
     <button type="button" class="card-turn" aria-expanded="false" aria-label="Ver significado de ${escapeCard(word.Word)}">
       <span class="turn-inner">
         <span class="turn-front"><img loading="lazy" src="${escapeCard(image(word))}" alt=""><span class="word">${escapeCard(word.Word)}</span><span class="turn-hint">Toca para ver el significado</span></span>
-        <span class="turn-back" aria-hidden="true"><span class="word">${escapeCard(word.Word)}</span><span class="translation">${escapeCard(translation(word))}</span>${ipa ? `<span class="pronunciation"><span class="pronunciation-label">IPA</span><span lang="en" class="ipa">${escapeCard(ipa)}</span></span>` : ''}${guide ? `<span class="pronunciation"><span class="pronunciation-label">Guía de pronunciación</span><span>${escapeCard(guide)}</span></span>` : ''}<span class="turn-hint">Toca para volver</span></span>
+        <span class="turn-back" aria-hidden="true"><span class="word">${escapeCard(word.Word)}</span><span class="translation">${escapeCard(translation(word))}</span>${ipa ? `<span class="pronunciation"><span class="pronunciation-label">IPA</span><span lang="en" class="ipa">${escapeCard(ipa)}</span></span>` : ''}${guide ? `<span class="pronunciation"><span class="pronunciation-label">Guía de pronunciación</span><span>${escapeCard(guide)}</span></span>` : ''}${exampleSentence(word)}<span class="turn-hint">Toca para volver</span></span>
       </span>
     </button>
     <div class="practice-footer"><div class="meta">${escapeCard(word.Sublevel)} · Unidad ${escapeCard(word.Unit)}</div><div class="card-actions"><button type="button" class="audio">🔊 Escuchar</button><button type="button" class="btn-card" data-title="${escapeCard(word.Title)}">📌 Agregar a mi lista</button></div></div>
@@ -63,7 +66,7 @@ showCard = function(word) {
     <button type="button" class="card-turn" aria-expanded="false" aria-label="Revelar la palabra en inglés">
       <span class="turn-inner">
         <span class="turn-front"><img src="${escapeCard(word.ImageUrl)}" alt="Imagen para adivinar la palabra en inglés"><span class="turn-hint">¿Cómo se dice en inglés? Dilo antes de voltear.</span></span>
-        <span class="turn-back" aria-hidden="true"><span class="word" lang="en">${escapeCard(word.Word)}</span><span class="turn-hint">Usa la palabra en una oración y haz una pregunta a tu compañero. Toca para volver a la imagen.</span></span>
+        <span class="turn-back" aria-hidden="true"><span class="word" lang="en">${escapeCard(word.Word)}</span>${exampleSentence(word)}<span class="turn-hint">Usa la palabra en una oración y haz una pregunta a tu compañero. Toca para volver a la imagen.</span></span>
       </span>
     </button>
     <div class="image-answer-actions" hidden><button type="button" class="btn-listen">🔊 Escuchar palabra</button></div>

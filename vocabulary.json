@@ -1592,7 +1592,8 @@
     "Translation": "rutinas en el trabajo",
     "ImageUrl": "images/a1.2/unit5/routinesatwork.jpg",
     "IPA": "/ruːˈtiːnz æt wɜːrk/",
-    "PronunciationGuide": "ru-tíins at uerk"
+    "PronunciationGuide": "ru-tíins at uerk",
+    "ExampleSentence": "Our routines at work help us stay organized."
   },
   {
     "Title": "VOC_A1.2_05_0146",
@@ -1603,7 +1604,8 @@
     "Translation": "asistir a una reunión",
     "ImageUrl": "images/a1.2/unit5/attendameeting.jpg",
     "IPA": "/əˈtɛnd ə ˈmiːtɪŋ/",
-    "PronunciationGuide": "e-ténd e míi-ting"
+    "PronunciationGuide": "e-ténd e míi-ting",
+    "ExampleSentence": "I attend a meeting every Monday."
   },
   {
     "Title": "VOC_A1.2_05_0147",
@@ -1614,7 +1616,8 @@
     "Translation": "preparar informes",
     "ImageUrl": "images/a1.2/unit5/preparereports.jpg",
     "IPA": "/prɪˈpɛər rɪˈpɔːrts/",
-    "PronunciationGuide": "pri-pér ri-pórts"
+    "PronunciationGuide": "pri-pér ri-pórts",
+    "ExampleSentence": "We prepare reports every Friday."
   },
   {
     "Title": "VOC_A1.2_05_0148",
@@ -1625,7 +1628,8 @@
     "Translation": "hablar con los clientes",
     "ImageUrl": "images/a1.2/unit5/talktocustomers.jpg",
     "IPA": "/tɔːk tuː ˈkʌstəmərz/",
-    "PronunciationGuide": "took tu cás-te-mers"
+    "PronunciationGuide": "took tu cás-te-mers",
+    "ExampleSentence": "I talk to customers every day."
   },
   {
     "Title": "VOC_A1.2_05_0149",
@@ -1636,7 +1640,8 @@
     "Translation": "dar una presentación",
     "ImageUrl": "images/a1.2/unit5/giveapresentation.jpg",
     "IPA": "/ɡɪv ə ˌprɛznˈteɪʃn/",
-    "PronunciationGuide": "giv e pre-sn-téi-shn"
+    "PronunciationGuide": "giv e pre-sn-téi-shn",
+    "ExampleSentence": "She gives a presentation every month."
   },
   {
     "Title": "VOC_A1.2_05_0150",
@@ -1647,7 +1652,8 @@
     "Translation": "asistir a reuniones",
     "ImageUrl": "images/a1.2/unit5/attendmeetings.jpg",
     "IPA": "/əˈtɛnd ˈmiːtɪŋz/",
-    "PronunciationGuide": "e-ténd míi-tings"
+    "PronunciationGuide": "e-ténd míi-tings",
+    "ExampleSentence": "They attend meetings in the morning."
   },
   {
     "Title": "VOC_A1.2_05_0151",
@@ -1658,7 +1664,8 @@
     "Translation": "empezar a trabajar",
     "ImageUrl": "images/a1.2/unit5/startwork.jpg",
     "IPA": "/stɑːrt wɜːrk/",
-    "PronunciationGuide": "start uerk"
+    "PronunciationGuide": "start uerk",
+    "ExampleSentence": "He starts work at eight o’clock."
   },
   {
     "Title": "VOC_A1.2_05_0152",
@@ -1669,7 +1676,8 @@
     "Translation": "terminar el trabajo",
     "ImageUrl": "images/a1.2/unit5/finishwork.jpg",
     "IPA": "/ˈfɪnɪʃ wɜːrk/",
-    "PronunciationGuide": "fí-nish uerk"
+    "PronunciationGuide": "fí-nish uerk",
+    "ExampleSentence": "I finish work at five o’clock."
   },
   {
     "Title": "VOC_A1.2_05_0153",
@@ -1680,7 +1688,8 @@
     "Translation": "ir a trabajar por",
     "ImageUrl": "images/a1.2/unit5/gotoworkby.jpg",
     "IPA": "/ɡoʊ tuː wɜːrk baɪ/",
-    "PronunciationGuide": "gou tu uerk bai"
+    "PronunciationGuide": "gou tu uerk bai",
+    "ExampleSentence": "She goes to work by bus."
   },
   {
     "Title": "VOC_A1.2_05_0154",
@@ -1691,7 +1700,8 @@
     "Translation": "hacer llamadas telefónicas",
     "ImageUrl": "images/a1.2/unit5/makephonecalls.jpg",
     "IPA": "/meɪk foʊn kɔːlz/",
-    "PronunciationGuide": "meik foun cools"
+    "PronunciationGuide": "meik foun cools",
+    "ExampleSentence": "He makes phone calls after lunch."
   },
   {
     "Title": "VOC_A1.2_05_0155",
@@ -1702,7 +1712,8 @@
     "Translation": "hacer citas",
     "ImageUrl": "images/a1.2/unit5/makeappointments.jpg",
     "IPA": "/meɪk əˈpɔɪntmənts/",
-    "PronunciationGuide": "meik e-póint-ments"
+    "PronunciationGuide": "meik e-póint-ments",
+    "ExampleSentence": "We make appointments for our customers."
   },
   {
     "Title": "VOC_A1.2_05_0156",
@@ -1713,7 +1724,8 @@
     "Translation": "éxito de taquilla",
     "ImageUrl": "images/a1.2/unit5/blockbuster.jpg",
     "IPA": "/ˈblɒkˌbʌstər/",
-    "PronunciationGuide": "blók-bas-ter"
+    "PronunciationGuide": "blók-bas-ter",
+    "ExampleSentence": "This blockbuster tells the story of a brave teacher."
   },
   {
     "Title": "VOC_A1.2_06_0157",
@@ -12823,7 +12835,8 @@
     "Translation": "comparar cosas incomparables",
     "ImageUrl": "images/a1.2/unit5/compareapplestooranges.jpg",
     "IPA": "/kəmˈpɛr ˈæpəlz tuː ˈɔrəndʒəz/",
-    "PronunciationGuide": "kam-pér áp-alz tuu ó-ran-dyaz"
+    "PronunciationGuide": "kam-pér áp-alz tuu ó-ran-dyaz",
+    "ExampleSentence": "We compare apples to oranges when we compare these two very different jobs."
   },
   {
     "Title": "VOC_A1.2_05_1168",
@@ -12834,7 +12847,8 @@
     "Translation": "ser muy fácil",
     "ImageUrl": "images/a1.2/unit5/likeshootingfishinabarrel.jpg",
     "IPA": "/laɪk ˈʃuːtɪŋ fɪʃ ɪn ə ˈbærəl/",
-    "PronunciationGuide": "laik shúu-ting fish in a bár-al"
+    "PronunciationGuide": "laik shúu-ting fish in a bár-al",
+    "ExampleSentence": "For an expert, this task is like shooting fish in a barrel."
   },
   {
     "Title": "VOC_A1.2_06_1169",
