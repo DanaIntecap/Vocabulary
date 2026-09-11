@@ -3075,7 +3075,7 @@
     "Unit": 5,
     "Word": "active",
     "Translation": "activo",
-    "ImageUrl": "images/a2.1/unit5/active.jpg",
+    "ImageUrl": "images/a2.1/unit5/active.png",
     "IPA": "/ˈæktɪv/",
     "PronunciationGuide": "ák-tiv"
   },
@@ -3141,7 +3141,7 @@
     "Unit": 5,
     "Word": "inspired",
     "Translation": "inspirado",
-    "ImageUrl": "images/a2.1/unit5/inspired.jpg",
+    "ImageUrl": "images/a2.1/unit5/inspired.png",
     "IPA": "/ˌɪnˈspaɪɚd/",
     "PronunciationGuide": "in-spái-erd"
   },
@@ -3152,7 +3152,7 @@
     "Unit": 5,
     "Word": "determined",
     "Translation": "determinado",
-    "ImageUrl": "images/a2.1/unit5/determined.jpg",
+    "ImageUrl": "images/a2.1/unit5/determined.png",
     "IPA": "/dɪˈtɝmənd/",
     "PronunciationGuide": "di-tér-mand"
   },
@@ -3185,7 +3185,7 @@
     "Unit": 5,
     "Word": "diligent",
     "Translation": "diligente",
-    "ImageUrl": "images/a2.1/unit5/diligent.jpg",
+    "ImageUrl": "images/a2.1/unit5/diligent.png",
     "IPA": "/ˈdɪlɪdʒənt/",
     "PronunciationGuide": "díl-i-dyant"
   },
@@ -3196,7 +3196,7 @@
     "Unit": 5,
     "Word": "committed",
     "Translation": "comprometido",
-    "ImageUrl": "images/a2.1/unit5/committed.jpg",
+    "ImageUrl": "images/a2.1/unit5/committed.png",
     "IPA": "/kəˈmɪtɪd/",
     "PronunciationGuide": "ka-mít-id"
   },
@@ -3218,7 +3218,7 @@
     "Unit": 5,
     "Word": "enthusiastic",
     "Translation": "entusiasta",
-    "ImageUrl": "images/a2.1/unit5/enthusiastic.jpg",
+    "ImageUrl": "images/a2.1/unit5/enthusiastic.png",
     "IPA": "/ɪnˌθuːziˈæstɪk/",
     "PronunciationGuide": "in-zuu-zi-ás-tik"
   },
@@ -3229,7 +3229,7 @@
     "Unit": 5,
     "Word": "visionary",
     "Translation": "visionario",
-    "ImageUrl": "images/a2.1/unit5/visionary.jpg",
+    "ImageUrl": "images/a2.1/unit5/visionary.png",
     "IPA": "/ˈvɪʒəˌnɛri/",
     "PronunciationGuide": "vízh-a-ne-ri"
   },
@@ -3240,7 +3240,7 @@
     "Unit": 5,
     "Word": "sophisticated",
     "Translation": "sofisticado",
-    "ImageUrl": "images/a2.1/unit5/sophisticated.jpg",
+    "ImageUrl": "images/a2.1/unit5/sophisticated.png",
     "IPA": "/səˈfɪstəˌkeɪtɪd/",
     "PronunciationGuide": "sa-fís-ta-kei-tid"
   },
@@ -3251,7 +3251,7 @@
     "Unit": 5,
     "Word": "accurate",
     "Translation": "preciso",
-    "ImageUrl": "images/a2.1/unit5/accurate.jpg",
+    "ImageUrl": "images/a2.1/unit5/accurate.png",
     "IPA": "/ˈækjɚət/",
     "PronunciationGuide": "ák-yer-at"
   },
@@ -11600,7 +11600,7 @@
     "Unit": 1,
     "Word": "eleven",
     "Translation": "once",
-    "ImageUrl": "",
+    "ImageUrl": "images/a1.1/unit1/eleven.png",
     "IPA": "/ɪˈlɛvən/",
     "PronunciationGuide": "i-lév-an"
   },
@@ -11611,7 +11611,7 @@
     "Unit": 1,
     "Word": "twelve",
     "Translation": "doce",
-    "ImageUrl": "",
+    "ImageUrl": "images/a1.1/unit1/twelve.png",
     "IPA": "/twɛlv/",
     "PronunciationGuide": "tuelv"
   },
@@ -11622,7 +11622,7 @@
     "Unit": 1,
     "Word": "thirteen",
     "Translation": "trece",
-    "ImageUrl": "",
+    "ImageUrl": "images/a1.1/unit1/thirteen.png",
     "IPA": "/ˈθɝˈtiːn/",
     "PronunciationGuide": "zér-tíin"
   },
@@ -11633,7 +11633,7 @@
     "Unit": 1,
     "Word": "fourteen",
     "Translation": "catorce",
-    "ImageUrl": "",
+    "ImageUrl": "images/a1.1/unit1/fourteen.png",
     "IPA": "/ˈfɔrˈtiːn/",
     "PronunciationGuide": "fór-tíin"
   },
@@ -11644,7 +11644,7 @@
     "Unit": 1,
     "Word": "fifteen",
     "Translation": "quince",
-    "ImageUrl": "",
+    "ImageUrl": "images/a1.1/unit1/fifteen.png",
     "IPA": "/fɪfˈtiːn/",
     "PronunciationGuide": "fif-tíin"
   },
@@ -11655,7 +11655,7 @@
     "Unit": 1,
     "Word": "sixteen",
     "Translation": "dieciséis",
-    "ImageUrl": "",
+    "ImageUrl": "images/a1.1/unit1/sixteen.png",
     "IPA": "/sɪkˈstiːn/",
     "PronunciationGuide": "sik-stíin"
   },
@@ -11666,7 +11666,7 @@
     "Unit": 1,
     "Word": "seventeen",
     "Translation": "diecisiete",
-    "ImageUrl": "",
+    "ImageUrl": "images/a1.1/unit1/seventeen.png",
     "IPA": "/ˈsɛvənˈtiːn/",
     "PronunciationGuide": "sév-an-tíin"
   },
@@ -11677,7 +11677,7 @@
     "Unit": 1,
     "Word": "eighteen",
     "Translation": "dieciocho",
-    "ImageUrl": "",
+    "ImageUrl": "images/a1.1/unit1/eighteen.png",
     "IPA": "/eɪˈtiːn/",
     "PronunciationGuide": "ei-tíin"
   },
@@ -11688,7 +11688,7 @@
     "Unit": 1,
     "Word": "nineteen",
     "Translation": "diecinueve",
-    "ImageUrl": "",
+    "ImageUrl": "images/a1.1/unit1/nineteen.png",
     "IPA": "/ˈnaɪnˈtiːn/",
     "PronunciationGuide": "náin-tíin"
   },
@@ -11699,7 +11699,7 @@
     "Unit": 1,
     "Word": "twenty",
     "Translation": "veinte",
-    "ImageUrl": "",
+    "ImageUrl": "images/a1.1/unit1/twenty.png",
     "IPA": "/ˈtwɛnti/",
     "PronunciationGuide": "tuén-ti"
   },
@@ -11721,7 +11721,7 @@
     "Unit": 1,
     "Word": "thirty",
     "Translation": "treinta",
-    "ImageUrl": "",
+    "ImageUrl": "images/a1.1/unit1/thirty.png",
     "IPA": "/ˈθɝˌdiː/",
     "PronunciationGuide": "zér-dii"
   },
@@ -11809,7 +11809,7 @@
     "Unit": 1,
     "Word": "one hundred",
     "Translation": "cien",
-    "ImageUrl": "",
+    "ImageUrl": "images/a1.1/unit1/onehundred.png",
     "IPA": "/wʌn ˈhʌndrəd/",
     "PronunciationGuide": "uan ján-drad"
   },
@@ -11820,7 +11820,7 @@
     "Unit": 1,
     "Word": "one thousand",
     "Translation": "mil",
-    "ImageUrl": "",
+    "ImageUrl": "images/a1.1/unit1/onethousand.png",
     "IPA": "/wʌn ˈθaʊzənd/",
     "PronunciationGuide": "uan záu-zand"
   },
