@@ -3326,7 +3326,7 @@
     "Unit": 6,
     "Word": "assist",
     "Translation": "asistir",
-    "ImageUrl": "images/a2.1/unit6/assist.jpg",
+    "ImageUrl": "images/a2.1/unit6/assist.png",
     "IPA": "/əˈsɪst/",
     "PronunciationGuide": "a-síst"
   },
@@ -3337,7 +3337,7 @@
     "Unit": 6,
     "Word": "attend",
     "Translation": "asistir",
-    "ImageUrl": "images/a2.1/unit6/attend.jpg",
+    "ImageUrl": "images/a2.1/unit6/attend.png",
     "IPA": "/əˈtɛnd/",
     "PronunciationGuide": "a-ténd"
   },
@@ -3348,7 +3348,7 @@
     "Unit": 6,
     "Word": "provide",
     "Translation": "proporcionar",
-    "ImageUrl": "images/a2.1/unit6/provide.jpg",
+    "ImageUrl": "images/a2.1/unit6/provide.png",
     "IPA": "/prəˈvaɪd/",
     "PronunciationGuide": "pra-váid"
   },
@@ -3359,7 +3359,7 @@
     "Unit": 6,
     "Word": "receive",
     "Translation": "recibir",
-    "ImageUrl": "images/a2.1/unit6/receive.jpg",
+    "ImageUrl": "images/a2.1/unit6/receive.png",
     "IPA": "/rəˈsiːv/",
     "PronunciationGuide": "ra-síiv"
   },
@@ -3370,7 +3370,7 @@
     "Unit": 6,
     "Word": "get",
     "Translation": "conseguir",
-    "ImageUrl": "images/a2.1/unit6/get.jpg",
+    "ImageUrl": "images/a2.1/unit6/get.png",
     "IPA": "/ɡɛt/",
     "PronunciationGuide": "get"
   },
@@ -3381,7 +3381,7 @@
     "Unit": 6,
     "Word": "book",
     "Translation": "libro",
-    "ImageUrl": "images/a2.1/unit6/book.jpg",
+    "ImageUrl": "images/a2.1/unit6/book.png",
     "IPA": "/bʊk/",
     "PronunciationGuide": "buk"
   },
@@ -3392,7 +3392,7 @@
     "Unit": 6,
     "Word": "reply",
     "Translation": "responder",
-    "ImageUrl": "images/a2.1/unit6/reply.jpg",
+    "ImageUrl": "images/a2.1/unit6/reply.png",
     "IPA": "/rɪˈplaɪ/",
     "PronunciationGuide": "ri-plái"
   },
@@ -3403,7 +3403,7 @@
     "Unit": 6,
     "Word": "select",
     "Translation": "seleccionar",
-    "ImageUrl": "images/a2.1/unit6/select.jpg",
+    "ImageUrl": "images/a2.1/unit6/select.png",
     "IPA": "/səˈlɛkt/",
     "PronunciationGuide": "sa-lékt"
   },
@@ -3414,7 +3414,7 @@
     "Unit": 6,
     "Word": "submit",
     "Translation": "entregar",
-    "ImageUrl": "images/a2.1/unit6/submit.jpg",
+    "ImageUrl": "images/a2.1/unit6/submit.png",
     "IPA": "/səbˈmɪt/",
     "PronunciationGuide": "sab-mít"
   },
@@ -3425,7 +3425,7 @@
     "Unit": 6,
     "Word": "apologize",
     "Translation": "disculparse",
-    "ImageUrl": "images/a2.1/unit6/apologize.jpg",
+    "ImageUrl": "images/a2.1/unit6/apologize.png",
     "IPA": "/əˈpɑləˌdʒaɪz/",
     "PronunciationGuide": "a-pá-la-dyaiz"
   },
@@ -3436,7 +3436,7 @@
     "Unit": 6,
     "Word": "talk about",
     "Translation": "hablar de",
-    "ImageUrl": "images/a2.1/unit6/talkabout.jpg",
+    "ImageUrl": "images/a2.1/unit6/talkabout.png",
     "IPA": "/tɔk əˈbaʊt/",
     "PronunciationGuide": "tok a-báut"
   },
@@ -3447,7 +3447,7 @@
     "Unit": 6,
     "Word": "make sure",
     "Translation": "Cerciorarse",
-    "ImageUrl": "images/a2.1/unit6/makesure.jpg",
+    "ImageUrl": "images/a2.1/unit6/makesure.png",
     "IPA": "/meɪk ʃʊr/",
     "PronunciationGuide": "meik shur"
   },
@@ -3458,7 +3458,7 @@
     "Unit": 6,
     "Word": "get in touch",
     "Translation": "ponte en contacto",
-    "ImageUrl": "images/a2.1/unit6/getintouch.jpg",
+    "ImageUrl": "images/a2.1/unit6/getintouch.png",
     "IPA": "/ɡɛt ɪn tʌtʃ/",
     "PronunciationGuide": "get in tach"
   },
@@ -3469,7 +3469,7 @@
     "Unit": 6,
     "Word": "recruit",
     "Translation": "recluta",
-    "ImageUrl": "images/a2.1/unit6/recruit.jpg",
+    "ImageUrl": "images/a2.1/unit6/recruit.png",
     "IPA": "/rəˈkruːt/",
     "PronunciationGuide": "ra-krúut"
   },
@@ -3491,7 +3491,7 @@
     "Unit": 6,
     "Word": "return",
     "Translation": "devolver",
-    "ImageUrl": "images/a2.1/unit6/return.jpg",
+    "ImageUrl": "images/a2.1/unit6/return.png",
     "IPA": "/rɪˈtɝn/",
     "PronunciationGuide": "ri-térn"
   },
