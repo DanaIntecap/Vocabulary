@@ -5,7 +5,7 @@
     "Sublevel": "A1.1",
     "Unit": 1,
     "Word": "Vowels",
-    "Translation": "Vocales y Consonantes",
+    "Translation": "Vocales",
     "ImageUrl": "",
     "IPA": "/ˈvaʊəlz/",
     "PronunciationGuide": "vau-els"
@@ -873,11 +873,12 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Unit": 1,
-    "Word": "Ajectives",
-    "Translation": "Ajetivos",
+    "Word": "Adjectives",
+    "Translation": "Adjetivos",
     "ImageUrl": "images/a1.2/unit1/ajectives.jpg",
     "IPA": "/ˈædʒɪktɪvz/",
-    "PronunciationGuide": "ád-yec-tivs"
+    "PronunciationGuide": "ád-yec-tivs",
+    "ExampleSentence": "Big and small are adjectives."
   },
   {
     "Title": "VOC_A1.2_01_0081",
@@ -888,7 +889,8 @@
     "Translation": "grande",
     "ImageUrl": "images/a1.2/unit1/big.jpg",
     "IPA": "/bɪɡ/",
-    "PronunciationGuide": "big"
+    "PronunciationGuide": "big",
+    "ExampleSentence": "That is a big house."
   },
   {
     "Title": "VOC_A1.2_01_0082",
@@ -899,18 +901,20 @@
     "Translation": "pequeño",
     "ImageUrl": "images/a1.2/unit1/small.jpg",
     "IPA": "/smɔːl/",
-    "PronunciationGuide": "smool"
+    "PronunciationGuide": "smool",
+    "ExampleSentence": "I have a small dog."
   },
   {
     "Title": "VOC_A1.2_01_0083",
     "Level": "A1",
     "Sublevel": "A1.2",
     "Unit": 1,
-    "Word": "ugly",
-    "Translation": "feo",
-    "ImageUrl": "images/a1.2/unit1/ugly.jpg",
-    "IPA": "/ˈʌɡli/",
-    "PronunciationGuide": "ág-li"
+    "Word": "impolite",
+    "Translation": "maleducado",
+    "ImageUrl": "images/a1.2/unit1/impolite.jpg",
+    "IPA": "/ɪmpəˈlaɪt/.",
+    "PronunciationGuide": "impe-láit",
+    "ExampleSentence": "It is impolite to interrupt people."
   },
   {
     "Title": "VOC_A1.2_01_0084",
@@ -921,7 +925,8 @@
     "Translation": "educado",
     "ImageUrl": "images/a1.2/unit1/polite.jpg",
     "IPA": "/pəˈlaɪt/",
-    "PronunciationGuide": "pe-láit"
+    "PronunciationGuide": "pe-láit",
+    "ExampleSentence": "She is polite to everyone."
   },
   {
     "Title": "VOC_A1.2_01_0085",
@@ -932,7 +937,8 @@
     "Translation": "lindo",
     "ImageUrl": "images/a1.2/unit1/nice.jpg",
     "IPA": "/naɪs/",
-    "PronunciationGuide": "nais"
+    "PronunciationGuide": "nais",
+    "ExampleSentence": "My new teacher is nice."
   },
   {
     "Title": "VOC_A1.2_01_0086",
@@ -943,7 +949,8 @@
     "Translation": "alto",
     "ImageUrl": "images/a1.2/unit1/tall.jpg",
     "IPA": "/tɔːl/",
-    "PronunciationGuide": "tool"
+    "PronunciationGuide": "tool",
+    "ExampleSentence": "My brother is very tall."
   },
   {
     "Title": "VOC_A1.2_01_0087",
@@ -954,7 +961,8 @@
     "Translation": "corto",
     "ImageUrl": "images/a1.2/unit1/short.jpg",
     "IPA": "/ʃɔːrt/",
-    "PronunciationGuide": "short"
+    "PronunciationGuide": "short",
+    "ExampleSentence": "This pencil is short."
   },
   {
     "Title": "VOC_A1.2_01_0088",
@@ -965,7 +973,8 @@
     "Translation": "gordo",
     "ImageUrl": "images/a1.2/unit1/fat.jpg",
     "IPA": "/fæt/",
-    "PronunciationGuide": "fat"
+    "PronunciationGuide": "fat",
+    "ExampleSentence": "The cat is fat."
   },
   {
     "Title": "VOC_A1.2_01_0089",
@@ -976,7 +985,8 @@
     "Translation": "delgado",
     "ImageUrl": "images/a1.2/unit1/thin.png",
     "IPA": "/θɪn/",
-    "PronunciationGuide": "zin"
+    "PronunciationGuide": "zin",
+    "ExampleSentence": "That book is very thin."
   },
   {
     "Title": "VOC_A1.2_01_0090",
@@ -987,7 +997,8 @@
     "Translation": "joven",
     "ImageUrl": "images/a1.2/unit1/young.png",
     "IPA": "/jʌŋ/",
-    "PronunciationGuide": "yang"
+    "PronunciationGuide": "yang",
+    "ExampleSentence": "The young boy plays soccer."
   },
   {
     "Title": "VOC_A1.2_01_0091",
@@ -998,7 +1009,8 @@
     "Translation": "nuevo",
     "ImageUrl": "images/a1.2/unit1/new.png",
     "IPA": "/nuː/",
-    "PronunciationGuide": "niu"
+    "PronunciationGuide": "niu",
+    "ExampleSentence": "I have a new computer."
   },
   {
     "Title": "VOC_A1.2_01_0092",
@@ -1009,7 +1021,8 @@
     "Translation": "viejo",
     "ImageUrl": "images/a1.2/unit1/old.png",
     "IPA": "/oʊld/",
-    "PronunciationGuide": "ould"
+    "PronunciationGuide": "ould",
+    "ExampleSentence": "My grandfather has an old car."
   },
   {
     "Title": "VOC_A1.2_01_0093",
@@ -1020,7 +1033,8 @@
     "Translation": "frío",
     "ImageUrl": "images/a1.2/unit1/cold.png",
     "IPA": "/koʊld/",
-    "PronunciationGuide": "could"
+    "PronunciationGuide": "could",
+    "ExampleSentence": "The water is cold."
   },
   {
     "Title": "VOC_A1.2_01_0094",
@@ -1031,7 +1045,8 @@
     "Translation": "caliente",
     "ImageUrl": "images/a1.2/unit1/hot.png",
     "IPA": "/hɒt/",
-    "PronunciationGuide": "jot"
+    "PronunciationGuide": "jot",
+    "ExampleSentence": "The soup is hot."
   },
   {
     "Title": "VOC_A1.2_01_0095",
@@ -1042,7 +1057,8 @@
     "Translation": "caro",
     "ImageUrl": "images/a1.2/unit1/expensive.png",
     "IPA": "/ɪkˈspɛnsɪv/",
-    "PronunciationGuide": "ik-spén-siv"
+    "PronunciationGuide": "ik-spén-siv",
+    "ExampleSentence": "That phone is expensive."
   },
   {
     "Title": "VOC_A1.2_01_0096",
@@ -1053,7 +1069,8 @@
     "Translation": "barato",
     "ImageUrl": "images/a1.2/unit1/cheap.png",
     "IPA": "/tʃiːp/",
-    "PronunciationGuide": "chiip"
+    "PronunciationGuide": "chiip",
+    "ExampleSentence": "These shoes are cheap."
   },
   {
     "Title": "VOC_A1.2_01_0097",
@@ -1064,7 +1081,8 @@
     "Translation": "lento",
     "ImageUrl": "images/a1.2/unit1/slow.png",
     "IPA": "/sloʊ/",
-    "PronunciationGuide": "slou"
+    "PronunciationGuide": "slou",
+    "ExampleSentence": "The bus is very slow."
   },
   {
     "Title": "VOC_A1.2_01_0098",
@@ -1075,7 +1093,8 @@
     "Translation": "rápido",
     "ImageUrl": "images/a1.2/unit1/fast.png",
     "IPA": "/fæst/",
-    "PronunciationGuide": "fast"
+    "PronunciationGuide": "fast",
+    "ExampleSentence": "Her new car is fast."
   },
   {
     "Title": "VOC_A1.2_01_0099",
@@ -1086,7 +1105,8 @@
     "Translation": "cómodo",
     "ImageUrl": "images/a1.2/unit1/comfortable.png",
     "IPA": "/ˈkʌmftəbl/",
-    "PronunciationGuide": "cámf-ter-bl"
+    "PronunciationGuide": "cámf-ter-bl",
+    "ExampleSentence": "This chair is comfortable."
   },
   {
     "Title": "VOC_A1.2_01_0100",
@@ -1097,7 +1117,8 @@
     "Translation": "incómodo",
     "ImageUrl": "images/a1.2/unit1/uncomfortable.png",
     "IPA": "/ʌnˈkʌmftəbl/",
-    "PronunciationGuide": "an-cámf-ter-bl"
+    "PronunciationGuide": "an-cámf-ter-bl",
+    "ExampleSentence": "These shoes are uncomfortable."
   },
   {
     "Title": "VOC_A1.2_01_0101",
@@ -1108,7 +1129,8 @@
     "Translation": "Tire del enchufe",
     "ImageUrl": "images/a1.2/unit1/pulltheplug.png",
     "IPA": "/pʊl ðə plʌɡ/",
-    "PronunciationGuide": "pul dza plag"
+    "PronunciationGuide": "pul dza plag",
+    "ExampleSentence": "We need to pull the plug on the old project."
   },
   {
     "Title": "VOC_A1.2_02_0102",
@@ -1119,7 +1141,8 @@
     "Translation": "Material y mobiliario de oficina",
     "ImageUrl": "images/a1.2/unit2/officesuppliesandfurniture.jpg",
     "IPA": "/ˈɒfɪs səˈplaɪz ænd ˈfɜːrnɪtʃər/",
-    "PronunciationGuide": "ó-fis se-pláis and fér-ni-cher"
+    "PronunciationGuide": "ó-fis se-pláis and fér-ni-cher",
+    "ExampleSentence": "The office supplies and furniture are new."
   },
   {
     "Title": "VOC_A1.2_02_0103",
@@ -1130,7 +1153,8 @@
     "Translation": "escritorio",
     "ImageUrl": "images/a1.2/unit2/desk.jpg",
     "IPA": "/dɛsk/",
-    "PronunciationGuide": "desk"
+    "PronunciationGuide": "desk",
+    "ExampleSentence": "My computer is on the desk."
   },
   {
     "Title": "VOC_A1.2_02_0104",
@@ -1141,7 +1165,8 @@
     "Translation": "teclado",
     "ImageUrl": "images/a1.2/unit2/keyboard.jpg",
     "IPA": "/ˈkiːbɔːrd/",
-    "PronunciationGuide": "kíi-bord"
+    "PronunciationGuide": "kíi-bord",
+    "ExampleSentence": "I type my name on the keyboard."
   },
   {
     "Title": "VOC_A1.2_02_0105",
@@ -1152,7 +1177,8 @@
     "Translation": "archivador",
     "ImageUrl": "images/a1.2/unit2/filingcabinet.jpg",
     "IPA": "/ˈfaɪlɪŋ ˌkæbɪnət/",
-    "PronunciationGuide": "fái-ling cá-bi-net"
+    "PronunciationGuide": "fái-ling cá-bi-net",
+    "ExampleSentence": "The documents are in the filing cabinet."
   },
   {
     "Title": "VOC_A1.2_02_0106",
@@ -1163,7 +1189,8 @@
     "Translation": "notas adhesivas",
     "ImageUrl": "images/a1.2/unit2/stickynotes.jpg",
     "IPA": "/ˈstɪki noʊts/",
-    "PronunciationGuide": "stí-ki nouts"
+    "PronunciationGuide": "stí-ki nouts",
+    "ExampleSentence": "I write reminders on sticky notes."
   },
   {
     "Title": "VOC_A1.2_02_0107",
@@ -1174,7 +1201,8 @@
     "Translation": "sobre",
     "ImageUrl": "images/a1.2/unit2/envelope.jpg",
     "IPA": "/ˈɛnvəloʊp/",
-    "PronunciationGuide": "én-ve-loup"
+    "PronunciationGuide": "én-ve-loup",
+    "ExampleSentence": "Put the letter in the envelope."
   },
   {
     "Title": "VOC_A1.2_02_0108",
@@ -1185,7 +1213,8 @@
     "Translation": "resaltador del portapapeles",
     "ImageUrl": "images/a1.2/unit2/clipboardhighlighter.jpg",
     "IPA": "/ˈklɪpbɔːrd ˈhaɪˌlaɪtər/",
-    "PronunciationGuide": "clíp-bord jái-lai-ter"
+    "PronunciationGuide": "clíp-bord jái-lai-ter",
+    "ExampleSentence": "The clipboard and highlighter are on the desk."
   },
   {
     "Title": "VOC_A1.2_02_0109",
@@ -1196,7 +1225,8 @@
     "Translation": "grapadora",
     "ImageUrl": "images/a1.2/unit2/stapler.jpg",
     "IPA": "/ˈsteɪplər/",
-    "PronunciationGuide": "stéi-pler"
+    "PronunciationGuide": "stéi-pler",
+    "ExampleSentence": "I use the stapler for these papers."
   },
   {
     "Title": "VOC_A1.2_02_0110",
@@ -1207,7 +1237,8 @@
     "Translation": "dispensador de cinta",
     "ImageUrl": "images/a1.2/unit2/tapedispenser.jpg",
     "IPA": "/teɪp dɪˈspɛnsər/",
-    "PronunciationGuide": "teip di-spén-ser"
+    "PronunciationGuide": "teip di-spén-ser",
+    "ExampleSentence": "The tape dispenser is next to the keyboard."
   },
   {
     "Title": "VOC_A1.2_02_0111",
@@ -1218,7 +1249,8 @@
     "Translation": "cesto de basura",
     "ImageUrl": "images/a1.2/unit2/wastebasket.jpg",
     "IPA": "/weɪst ˈbæskɪt/",
-    "PronunciationGuide": "ueist bás-ket"
+    "PronunciationGuide": "ueist bás-ket",
+    "ExampleSentence": "Please put the paper in the waste basket."
   },
   {
     "Title": "VOC_A1.2_02_0112",
@@ -1229,7 +1261,8 @@
     "Translation": "Ponerse en forma o enviar",
     "ImageUrl": "images/a1.2/unit2/shapeuporshipout.jpg",
     "IPA": "/ʃeɪp ʌp ɔːr ʃɪp aʊt/",
-    "PronunciationGuide": "sheip ap or ship aut"
+    "PronunciationGuide": "sheip ap or ship aut",
+    "ExampleSentence": "The manager says, \"Shape up or ship out.\""
   },
   {
     "Title": "VOC_A1.2_03_0113",
@@ -1684,11 +1717,11 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Unit": 5,
-    "Word": "go to work by",
-    "Translation": "ir a trabajar por",
+    "Word": "go to work",
+    "Translation": "ir a trabajar",
     "ImageUrl": "images/a1.2/unit5/gotoworkby.jpg",
-    "IPA": "/ɡoʊ tuː wɜːrk baɪ/",
-    "PronunciationGuide": "gou tu uerk bai",
+    "IPA": "/ɡoʊ tuː wɜːrk/",
+    "PronunciationGuide": "gou tu uerk",
     "ExampleSentence": "She goes to work by bus."
   },
   {
@@ -12755,7 +12788,8 @@
     "Translation": "reunir y motivar al equipo",
     "ImageUrl": "images/a1.2/unit1/rallythetroops.png",
     "IPA": "/ˈræli ðə truːps/",
-    "PronunciationGuide": "rál-i dza truups"
+    "PronunciationGuide": "rál-i dza truups",
+    "ExampleSentence": "The coach rallies the troops before the game."
   },
   {
     "Title": "VOC_A1.2_01_1160",
@@ -12766,7 +12800,8 @@
     "Translation": "elevar el nivel",
     "ImageUrl": "images/a1.2/unit1/raisethebar.jpg",
     "IPA": "/reɪz ðə bɑr/",
-    "PronunciationGuide": "reiz dza bar"
+    "PronunciationGuide": "reiz dza bar",
+    "ExampleSentence": "Our teacher wants us to raise the bar."
   },
   {
     "Title": "VOC_A1.2_02_1161",
@@ -12777,7 +12812,8 @@
     "Translation": "hacerlo extraordinariamente bien",
     "ImageUrl": "images/a1.2/unit2/hititoutofthepark.jpg",
     "IPA": "/hɪt ɪt aʊt əv ðə pɑrk/",
-    "PronunciationGuide": "jit it aut av dza park"
+    "PronunciationGuide": "jit it aut av dza park",
+    "ExampleSentence": "Ana hits it out of the park with her presentation."
   },
   {
     "Title": "VOC_A1.2_02_1162",
@@ -12788,7 +12824,8 @@
     "Translation": "irse por el desagüe",
     "ImageUrl": "images/a1.2/unit2/godownthedrain.jpg",
     "IPA": "/ɡoʊ daʊn ðə dreɪn/",
-    "PronunciationGuide": "gou daun dza drein"
+    "PronunciationGuide": "gou daun dza drein",
+    "ExampleSentence": "Our hard work can go down the drain."
   },
   {
     "Title": "VOC_A1.2_03_1163",
