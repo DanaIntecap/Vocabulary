@@ -974,7 +974,7 @@
     "Unit": 1,
     "Word": "thin",
     "Translation": "delgado",
-    "ImageUrl": "images/a1.2/unit1/thin.jpg",
+    "ImageUrl": "images/a1.2/unit1/thin.png",
     "IPA": "/θɪn/",
     "PronunciationGuide": "zin"
   },
@@ -985,7 +985,7 @@
     "Unit": 1,
     "Word": "young",
     "Translation": "joven",
-    "ImageUrl": "images/a1.2/unit1/young.jpg",
+    "ImageUrl": "images/a1.2/unit1/young.png",
     "IPA": "/jʌŋ/",
     "PronunciationGuide": "yang"
   },
@@ -996,7 +996,7 @@
     "Unit": 1,
     "Word": "new",
     "Translation": "nuevo",
-    "ImageUrl": "images/a1.2/unit1/new.jpg",
+    "ImageUrl": "images/a1.2/unit1/new.png",
     "IPA": "/nuː/",
     "PronunciationGuide": "niu"
   },
@@ -1007,7 +1007,7 @@
     "Unit": 1,
     "Word": "old",
     "Translation": "viejo",
-    "ImageUrl": "images/a1.2/unit1/old.jpg",
+    "ImageUrl": "images/a1.2/unit1/old.png",
     "IPA": "/oʊld/",
     "PronunciationGuide": "ould"
   },
@@ -1018,7 +1018,7 @@
     "Unit": 1,
     "Word": "cold",
     "Translation": "frío",
-    "ImageUrl": "images/a1.2/unit1/cold.jpg",
+    "ImageUrl": "images/a1.2/unit1/cold.png",
     "IPA": "/koʊld/",
     "PronunciationGuide": "could"
   },
@@ -1029,7 +1029,7 @@
     "Unit": 1,
     "Word": "hot",
     "Translation": "caliente",
-    "ImageUrl": "images/a1.2/unit1/hot.jpg",
+    "ImageUrl": "images/a1.2/unit1/hot.png",
     "IPA": "/hɒt/",
     "PronunciationGuide": "jot"
   },
@@ -1040,7 +1040,7 @@
     "Unit": 1,
     "Word": "expensive",
     "Translation": "caro",
-    "ImageUrl": "images/a1.2/unit1/expensive.jpg",
+    "ImageUrl": "images/a1.2/unit1/expensive.png",
     "IPA": "/ɪkˈspɛnsɪv/",
     "PronunciationGuide": "ik-spén-siv"
   },
@@ -1051,7 +1051,7 @@
     "Unit": 1,
     "Word": "cheap",
     "Translation": "barato",
-    "ImageUrl": "images/a1.2/unit1/cheap.jpg",
+    "ImageUrl": "images/a1.2/unit1/cheap.png",
     "IPA": "/tʃiːp/",
     "PronunciationGuide": "chiip"
   },
@@ -1062,7 +1062,7 @@
     "Unit": 1,
     "Word": "slow",
     "Translation": "lento",
-    "ImageUrl": "images/a1.2/unit1/slow.jpg",
+    "ImageUrl": "images/a1.2/unit1/slow.png",
     "IPA": "/sloʊ/",
     "PronunciationGuide": "slou"
   },
@@ -1073,7 +1073,7 @@
     "Unit": 1,
     "Word": "fast",
     "Translation": "rápido",
-    "ImageUrl": "images/a1.2/unit1/fast.jpg",
+    "ImageUrl": "images/a1.2/unit1/fast.png",
     "IPA": "/fæst/",
     "PronunciationGuide": "fast"
   },
@@ -1084,7 +1084,7 @@
     "Unit": 1,
     "Word": "comfortable",
     "Translation": "cómodo",
-    "ImageUrl": "images/a1.2/unit1/comfortable.jpg",
+    "ImageUrl": "images/a1.2/unit1/comfortable.png",
     "IPA": "/ˈkʌmftəbl/",
     "PronunciationGuide": "cámf-ter-bl"
   },
@@ -1095,7 +1095,7 @@
     "Unit": 1,
     "Word": "uncomfortable",
     "Translation": "incómodo",
-    "ImageUrl": "images/a1.2/unit1/uncomfortable.jpg",
+    "ImageUrl": "images/a1.2/unit1/uncomfortable.png",
     "IPA": "/ʌnˈkʌmftəbl/",
     "PronunciationGuide": "an-cámf-ter-bl"
   },
@@ -1106,7 +1106,7 @@
     "Unit": 1,
     "Word": "Pull the plug",
     "Translation": "Tire del enchufe",
-    "ImageUrl": "images/a1.2/unit1/pulltheplug.jpg",
+    "ImageUrl": "images/a1.2/unit1/pulltheplug.png",
     "IPA": "/pʊl ðə plʌɡ/",
     "PronunciationGuide": "pul dza plag"
   },
@@ -12753,7 +12753,7 @@
     "Unit": 1,
     "Word": "Rally the troops",
     "Translation": "reunir y motivar al equipo",
-    "ImageUrl": "images/a1.2/unit1/rallythetroops.jpg",
+    "ImageUrl": "images/a1.2/unit1/rallythetroops.png",
     "IPA": "/ˈræli ðə truːps/",
     "PronunciationGuide": "rál-i dza truups"
   },
