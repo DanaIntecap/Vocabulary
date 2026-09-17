@@ -13112,5 +13112,29 @@
     "ImageUrl": "images/a2.1/unit8/bealongshot.jpg",
     "IPA": "/biː ə lɔŋ ʃɑt/",
     "PronunciationGuide": "bii a long shat"
+  },
+  {
+    "Title": "VOC_A1.2_01_1192",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Unit": 1,
+    "Word": "impolite",
+    "Translation": "descortés",
+    "ImageUrl": "images/a1.2/unit1/impolite.png",
+    "IPA": "/ˌɪmpəˈlaɪt/",
+    "PronunciationGuide": "im-pe-láit",
+    "ExampleSentence": "It is impolite to interrupt people."
+  },
+  {
+    "Title": "VOC_A1.2_01_1193",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Unit": 1,
+    "Word": "rude",
+    "Translation": "grosero/a",
+    "ImageUrl": "images/a1.2/unit1/rude.png",
+    "IPA": "/ruːd/",
+    "PronunciationGuide": "ruud",
+    "ExampleSentence": "He is rude to his classmates."
   }
 ]
