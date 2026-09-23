@@ -1139,7 +1139,7 @@
     "Unit": 2,
     "Word": "Office supplies and furniture",
     "Translation": "Material y mobiliario de oficina",
-    "ImageUrl": "images/a1.2/unit2/officesuppliesandfurniture.jpg",
+    "ImageUrl": "images/a1.2/unit2/officesuppliesandfurniture.avif",
     "IPA": "/ˈɒfɪs səˈplaɪz ænd ˈfɜːrnɪtʃər/",
     "PronunciationGuide": "ó-fis se-pláis and fér-ni-cher",
     "ExampleSentence": "The office supplies and furniture are new."
@@ -1175,7 +1175,7 @@
     "Unit": 2,
     "Word": "filing cabinet",
     "Translation": "archivador",
-    "ImageUrl": "images/a1.2/unit2/filingcabinet.jpg",
+    "ImageUrl": "images/a1.2/unit2/filingcabinet.avif",
     "IPA": "/ˈfaɪlɪŋ ˌkæbɪnət/",
     "PronunciationGuide": "fái-ling cá-bi-net",
     "ExampleSentence": "The documents are in the filing cabinet."
@@ -1223,7 +1223,7 @@
     "Unit": 2,
     "Word": "highlighter",
     "Translation": "resaltador",
-    "ImageUrl": "",
+    "ImageUrl": "images/a1.2/unit2/highlighter.avif",
     "IPA": "/ˈhaɪˌlaɪtər/",
     "PronunciationGuide": "jái-lai-ter",
     "ExampleSentence": "The highlighter is yellow."
@@ -1271,7 +1271,7 @@
     "Unit": 2,
     "Word": "Shape up or ship out",
     "Translation": "Ponerse en forma o enviar",
-    "ImageUrl": "images/a1.2/unit2/shapeuporshipout.jpg",
+    "ImageUrl": "images/a1.2/unit2/shapeuporshipout.png",
     "IPA": "/ʃeɪp ʌp ɔːr ʃɪp aʊt/",
     "PronunciationGuide": "sheip ap or ship aut",
     "ExampleSentence": "The manager says, \"Shape up or ship out.\""
