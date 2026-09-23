@@ -1209,12 +1209,24 @@
     "Level": "A1",
     "Sublevel": "A1.2",
     "Unit": 2,
-    "Word": "clipboard highlighter",
-    "Translation": "resaltador del portapapeles",
-    "ImageUrl": "images/a1.2/unit2/clipboardhighlighter.jpg",
-    "IPA": "/ˈklɪpbɔːrd ˈhaɪˌlaɪtər/",
-    "PronunciationGuide": "clíp-bord jái-lai-ter",
-    "ExampleSentence": "The clipboard and highlighter are on the desk."
+    "Word": "clipboard",
+    "Translation": "portapapeles",
+    "ImageUrl": "",
+    "IPA": "/ˈklɪpbɔːrd/",
+    "PronunciationGuide": "clíp-bord",
+    "ExampleSentence": "The clipboard holds my papers."
+  },
+  {
+    "Title": "VOC_A1.2_02_1206",
+    "Level": "A1",
+    "Sublevel": "A1.2",
+    "Unit": 2,
+    "Word": "highlighter",
+    "Translation": "resaltador",
+    "ImageUrl": "",
+    "IPA": "/ˈhaɪˌlaɪtər/",
+    "PronunciationGuide": "jái-lai-ter",
+    "ExampleSentence": "The highlighter is yellow."
   },
   {
     "Title": "VOC_A1.2_02_0109",
