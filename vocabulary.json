@@ -1250,7 +1250,7 @@
     "Unit": 3,
     "Word": "accept",
     "Translation": "aceptar",
-    "ImageUrl": "images/a1.2/unit3/accept.jpg",
+    "ImageUrl": "images/a1.2/unit3/accept.png",
     "IPA": "/əkˈsɛpt/",
     "PronunciationGuide": "ak-sépt"
   },
@@ -1283,7 +1283,7 @@
     "Unit": 3,
     "Word": "avoid",
     "Translation": "evitar",
-    "ImageUrl": "images/a1.2/unit3/avoid.jpg",
+    "ImageUrl": "images/a1.2/unit3/avoid.webp",
     "IPA": "/əˈvɔɪd/",
     "PronunciationGuide": "e-vóid"
   },
