@@ -3,7 +3,7 @@ function renderSelected(){const box=$('selectedWords');const count=$('selectedCo
 function addSelected(word){if(!word||state.selected.some(x=>x.Title===word.Title))return;state.selected.push(word);renderSelected();refreshSelectedButtons()}
 function refreshSelectedButtons(){document.querySelectorAll('.btn-card').forEach(b=>{const selected=state.selected.some(x=>x.Title===b.dataset.title);b.textContent=selected?'✅ En mi lista':'📌 Agregar a mi lista';b.disabled=selected})}
 function startSelectedGame(){if(!state.selected.length){alert('Agrega al menos una palabra a tu lista.');return}startGame(state.selected[0],state.selected)}
-async function init(){state.words=await (await fetch('vocabulary.json')).json();fill('level',unique(state.words.map(x=>x.Level)));$('level').value='A1';updateSublevels();bind();render()}
+async function init(){state.words=await (await fetch('vocabulary.json?v=20261005-1')).json();fill('level',unique(state.words.map(x=>x.Level)));$('level').value='A1';updateSublevels();bind();render()}
 const unique=a=>[...new Set(a)];function fill(id,values){const el=$(id);el.innerHTML='';values.forEach(v=>el.add(new Option(v,v)))}
 function updateSublevels(){const level=$('level').value;fill('sublevel',unique(state.words.filter(x=>x.Level===level).map(x=>x.Sublevel)));updateUnits()}
 function updateUnits(){const f=state.words.filter(x=>x.Level===$('level').value&&x.Sublevel===$('sublevel').value);fill('unit',unique(f.map(x=>String(x.Unit))));render()}
