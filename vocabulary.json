@@ -877,7 +877,8 @@
     "Translation": "Adjetivos",
     "ImageUrl": "images/a1.2/unit1/ajectives.jpg",
     "IPA": "/ˈædʒɪktɪvz/",
-    "PronunciationGuide": "ád-yec-tivs"
+    "PronunciationGuide": "ád-yec-tivs",
+    "ExampleSentence": "Adjectives describe people and things."
   },
   {
     "Title": "VOC_A1.2_01_0081",
@@ -888,7 +889,8 @@
     "Translation": "grande",
     "ImageUrl": "images/a1.2/unit1/big.jpg",
     "IPA": "/bɪɡ/",
-    "PronunciationGuide": "big"
+    "PronunciationGuide": "big",
+    "ExampleSentence": "They live in a big house."
   },
   {
     "Title": "VOC_A1.2_01_0082",
@@ -899,7 +901,8 @@
     "Translation": "pequeño",
     "ImageUrl": "images/a1.2/unit1/small.jpg",
     "IPA": "/smɔːl/",
-    "PronunciationGuide": "smool"
+    "PronunciationGuide": "smool",
+    "ExampleSentence": "I have a small dog."
   },
   {
     "Title": "VOC_A1.2_01_0084",
@@ -910,7 +913,8 @@
     "Translation": "educado",
     "ImageUrl": "images/a1.2/unit1/polite.jpg",
     "IPA": "/pəˈlaɪt/",
-    "PronunciationGuide": "pe-láit"
+    "PronunciationGuide": "pe-láit",
+    "ExampleSentence": "She is always polite to her teachers."
   },
   {
     "Title": "VOC_A1.2_01_0085",
@@ -921,7 +925,8 @@
     "Translation": "lindo",
     "ImageUrl": "images/a1.2/unit1/nice.jpg",
     "IPA": "/naɪs/",
-    "PronunciationGuide": "nais"
+    "PronunciationGuide": "nais",
+    "ExampleSentence": "It is a nice day today."
   },
   {
     "Title": "VOC_A1.2_01_0086",
@@ -932,7 +937,8 @@
     "Translation": "alto",
     "ImageUrl": "images/a1.2/unit1/tall.jpg",
     "IPA": "/tɔːl/",
-    "PronunciationGuide": "tool"
+    "PronunciationGuide": "tool",
+    "ExampleSentence": "My brother is very tall."
   },
   {
     "Title": "VOC_A1.2_01_0087",
@@ -943,7 +949,8 @@
     "Translation": "corto",
     "ImageUrl": "images/a1.2/unit1/short.jpg",
     "IPA": "/ʃɔːrt/",
-    "PronunciationGuide": "short"
+    "PronunciationGuide": "short",
+    "ExampleSentence": "She has short hair."
   },
   {
     "Title": "VOC_A1.2_01_0088",
@@ -954,7 +961,8 @@
     "Translation": "gordo",
     "ImageUrl": "images/a1.2/unit1/fat.jpg",
     "IPA": "/fæt/",
-    "PronunciationGuide": "fat"
+    "PronunciationGuide": "fat",
+    "ExampleSentence": "The fat cat sleeps on the bed."
   },
   {
     "Title": "VOC_A1.2_01_0089",
@@ -965,7 +973,8 @@
     "Translation": "delgado",
     "ImageUrl": "images/a1.2/unit1/thin.png",
     "IPA": "/θɪn/",
-    "PronunciationGuide": "zin"
+    "PronunciationGuide": "zin",
+    "ExampleSentence": "He is tall and thin."
   },
   {
     "Title": "VOC_A1.2_01_0090",
@@ -976,7 +985,8 @@
     "Translation": "joven",
     "ImageUrl": "images/a1.2/unit1/young.png",
     "IPA": "/jʌŋ/",
-    "PronunciationGuide": "yang"
+    "PronunciationGuide": "yang",
+    "ExampleSentence": "The young girl plays in the park."
   },
   {
     "Title": "VOC_A1.2_01_0091",
@@ -987,7 +997,8 @@
     "Translation": "nuevo",
     "ImageUrl": "images/a1.2/unit1/new.png",
     "IPA": "/nuː/",
-    "PronunciationGuide": "niu"
+    "PronunciationGuide": "niu",
+    "ExampleSentence": "I have a new car."
   },
   {
     "Title": "VOC_A1.2_01_0092",
@@ -998,7 +1009,8 @@
     "Translation": "viejo",
     "ImageUrl": "images/a1.2/unit1/old.png",
     "IPA": "/oʊld/",
-    "PronunciationGuide": "ould"
+    "PronunciationGuide": "ould",
+    "ExampleSentence": "This is an old book."
   },
   {
     "Title": "VOC_A1.2_01_0093",
@@ -1009,7 +1021,8 @@
     "Translation": "frío",
     "ImageUrl": "images/a1.2/unit1/cold.png",
     "IPA": "/koʊld/",
-    "PronunciationGuide": "could"
+    "PronunciationGuide": "could",
+    "ExampleSentence": "I drink cold water in the summer."
   },
   {
     "Title": "VOC_A1.2_01_0094",
@@ -1020,7 +1033,8 @@
     "Translation": "caliente",
     "ImageUrl": "images/a1.2/unit1/hot.png",
     "IPA": "/hɒt/",
-    "PronunciationGuide": "jot"
+    "PronunciationGuide": "jot",
+    "ExampleSentence": "The coffee is very hot."
   },
   {
     "Title": "VOC_A1.2_01_0095",
@@ -1031,7 +1045,8 @@
     "Translation": "caro",
     "ImageUrl": "images/a1.2/unit1/expensive.png",
     "IPA": "/ɪkˈspɛnsɪv/",
-    "PronunciationGuide": "ik-spén-siv"
+    "PronunciationGuide": "ik-spén-siv",
+    "ExampleSentence": "That watch is very expensive."
   },
   {
     "Title": "VOC_A1.2_01_0096",
@@ -1042,7 +1057,8 @@
     "Translation": "barato",
     "ImageUrl": "images/a1.2/unit1/cheap.png",
     "IPA": "/tʃiːp/",
-    "PronunciationGuide": "chiip"
+    "PronunciationGuide": "chiip",
+    "ExampleSentence": "These apples are very cheap."
   },
   {
     "Title": "VOC_A1.2_01_0097",
@@ -1053,7 +1069,8 @@
     "Translation": "lento",
     "ImageUrl": "images/a1.2/unit1/slow.png",
     "IPA": "/sloʊ/",
-    "PronunciationGuide": "slou"
+    "PronunciationGuide": "slou",
+    "ExampleSentence": "The bus is very slow today."
   },
   {
     "Title": "VOC_A1.2_01_0098",
@@ -1064,7 +1081,8 @@
     "Translation": "rápido",
     "ImageUrl": "images/a1.2/unit1/fast.png",
     "IPA": "/fæst/",
-    "PronunciationGuide": "fast"
+    "PronunciationGuide": "fast",
+    "ExampleSentence": "He drives a fast car."
   },
   {
     "Title": "VOC_A1.2_01_0099",
@@ -1075,7 +1093,8 @@
     "Translation": "cómodo",
     "ImageUrl": "images/a1.2/unit1/comfortable.png",
     "IPA": "/ˈkʌmftəbl/",
-    "PronunciationGuide": "cámf-ter-bl"
+    "PronunciationGuide": "cámf-ter-bl",
+    "ExampleSentence": "This chair is very comfortable."
   },
   {
     "Title": "VOC_A1.2_01_0100",
@@ -1086,7 +1105,8 @@
     "Translation": "incómodo",
     "ImageUrl": "images/a1.2/unit1/uncomfortable.png",
     "IPA": "/ʌnˈkʌmftəbl/",
-    "PronunciationGuide": "an-cámf-ter-bl"
+    "PronunciationGuide": "an-cámf-ter-bl",
+    "ExampleSentence": "These shoes are uncomfortable."
   },
   {
     "Title": "VOC_A1.2_01_0101",
@@ -1097,7 +1117,8 @@
     "Translation": "Tire del enchufe",
     "ImageUrl": "images/a1.2/unit1/pulltheplug.png",
     "IPA": "/pʊl ðə plʌɡ/",
-    "PronunciationGuide": "pul dza plag"
+    "PronunciationGuide": "pul dza plag",
+    "ExampleSentence": "They will pull the plug from the project because they don't have more money."
   },
   {
     "Title": "VOC_A1.2_02_0102",
