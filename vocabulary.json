@@ -13160,14 +13160,14 @@
     "PronunciationGuide": "ruud",
     "ExampleSentence": "He is rude to his classmates."
   },
-  {
+{
     "Title": "VOC_A1.2_01_1194",
     "Level": "A1",
     "Sublevel": "A1.2",
     "Unit": 1,
     "Word": "responsible",
     "Translation": "responsable",
-    "ImageUrl": "",
+    "ImageUrl": "images/a1.2/unit1/responsible.jpg",
     "IPA": "/rɪˈspɑːnsəbəl/",
     "PronunciationGuide": "ri-spán-se-bol",
     "ExampleSentence": "I am responsible. I finish my homework on time."
@@ -13179,7 +13179,7 @@
     "Unit": 1,
     "Word": "organized",
     "Translation": "organizado/a",
-    "ImageUrl": "",
+    "ImageUrl": "images/a1.2/unit1/organized.jpg",
     "IPA": "/ˈɔːrɡənaɪzd/",
     "PronunciationGuide": "ór-ga-naizd",
     "ExampleSentence": "I am organized. I keep my desk tidy."
@@ -13191,7 +13191,7 @@
     "Unit": 1,
     "Word": "creative",
     "Translation": "creativo/a",
-    "ImageUrl": "",
+    "ImageUrl": "images/a1.2/unit1/creative.jpg",
     "IPA": "/kriˈeɪtɪv/",
     "PronunciationGuide": "kri-éi-tiv",
     "ExampleSentence": "I am creative. I enjoy making new things."
@@ -13203,7 +13203,7 @@
     "Unit": 1,
     "Word": "patient",
     "Translation": "paciente",
-    "ImageUrl": "",
+    "ImageUrl": "images/a1.2/unit1/patient.jpg",
     "IPA": "/ˈpeɪʃənt/",
     "PronunciationGuide": "péi-shent",
     "ExampleSentence": "I am patient. I can wait without getting angry."
@@ -13215,7 +13215,7 @@
     "Unit": 1,
     "Word": "funny",
     "Translation": "divertido/a; que hace reír",
-    "ImageUrl": "",
+    "ImageUrl": "images/a1.2/unit1/funny.jpg",
     "IPA": "/ˈfʌni/",
     "PronunciationGuide": "fá-ni",
     "ExampleSentence": "I am funny. I make my friends laugh."
@@ -13227,7 +13227,7 @@
     "Unit": 1,
     "Word": "honest",
     "Translation": "honesto/a",
-    "ImageUrl": "",
+    "ImageUrl": "images/a1.2/unit1/honest.jpg",
     "IPA": "/ˈɑːnɪst/",
     "PronunciationGuide": "á-nist",
     "ExampleSentence": "I am honest. I tell the truth."
@@ -13239,7 +13239,7 @@
     "Unit": 1,
     "Word": "friendly",
     "Translation": "amigable",
-    "ImageUrl": "",
+    "ImageUrl": "images/a1.2/unit1/friendly.jpg",
     "IPA": "/ˈfrendli/",
     "PronunciationGuide": "frénd-li",
     "ExampleSentence": "I am friendly. I enjoy meeting new people."
@@ -13251,7 +13251,7 @@
     "Unit": 1,
     "Word": "hardworking",
     "Translation": "trabajador/a",
-    "ImageUrl": "",
+    "ImageUrl": "images/a1.2/unit1/hardworking.jpg",
     "IPA": "/ˌhɑːrdˈwɜːrkɪŋ/",
     "PronunciationGuide": "jard-uér-king",
     "ExampleSentence": "I am hardworking. I study every day."
@@ -13263,7 +13263,7 @@
     "Unit": 1,
     "Word": "kind",
     "Translation": "amable; bondadoso/a",
-    "ImageUrl": "",
+    "ImageUrl": "images/a1.2/unit1/kind.jpg",
     "IPA": "/kaɪnd/",
     "PronunciationGuide": "káind",
     "ExampleSentence": "I am kind. I care about other people."
@@ -13275,7 +13275,7 @@
     "Unit": 1,
     "Word": "proactive",
     "Translation": "proactivo/a; con iniciativa",
-    "ImageUrl": "",
+    "ImageUrl": "images/a1.2/unit1/proactive.jpg",
     "IPA": "/proʊˈæktɪv/",
     "PronunciationGuide": "prou-ák-tiv",
     "ExampleSentence": "I am proactive. I start tasks without being asked."
@@ -13287,7 +13287,7 @@
     "Unit": 1,
     "Word": "shy",
     "Translation": "tímido/a",
-    "ImageUrl": "",
+    "ImageUrl": "images/a1.2/unit1/shy.jpg",
     "IPA": "/ʃaɪ/",
     "PronunciationGuide": "shái",
     "ExampleSentence": "I am shy. I feel nervous around new people."
@@ -13299,7 +13299,7 @@
     "Unit": 1,
     "Word": "curious",
     "Translation": "curioso/a; con interés por aprender",
-    "ImageUrl": "",
+    "ImageUrl": "images/a1.2/unit1/curious.jpg",
     "IPA": "/ˈkjʊriəs/",
     "PronunciationGuide": "kiúr-i-es",
     "ExampleSentence": "I am curious. I like to ask questions."
