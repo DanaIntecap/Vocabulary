@@ -1274,7 +1274,8 @@
     "Translation": "aceptar",
     "ImageUrl": "images/a1.2/unit3/accept.png",
     "IPA": "/əkˈsɛpt/",
-    "PronunciationGuide": "ak-sépt"
+    "PronunciationGuide": "ak-sépt",
+    "ExampleSentence": "We accept credit cards and cash in our shop."
   },
   {
     "Title": "VOC_A1.2_03_0115",
@@ -1285,7 +1286,8 @@
     "Translation": "admitir",
     "ImageUrl": "images/a1.2/unit3/admit.jpg",
     "IPA": "/ədˈmɪt/",
-    "PronunciationGuide": "ad-mít"
+    "PronunciationGuide": "ad-mít",
+    "ExampleSentence": "The manager admits the mistake and helps the customer."
   },
   {
     "Title": "VOC_A1.2_03_0116",
@@ -1296,7 +1298,8 @@
     "Translation": "aprobar",
     "ImageUrl": "images/a1.2/unit3/approve.png",
     "IPA": "/əˈpruːv/",
-    "PronunciationGuide": "e-prúuv"
+    "PronunciationGuide": "e-prúuv",
+    "ExampleSentence": "The boss approves our sales discount today."
   },
   {
     "Title": "VOC_A1.2_03_0117",
@@ -1307,7 +1310,8 @@
     "Translation": "evitar",
     "ImageUrl": "images/a1.2/unit3/avoid.webp",
     "IPA": "/əˈvɔɪd/",
-    "PronunciationGuide": "e-vóid"
+    "PronunciationGuide": "e-vóid",
+    "ExampleSentence": "Good sellers avoid problems with clients."
   },
   {
     "Title": "VOC_A1.2_03_0118",
@@ -1318,7 +1322,8 @@
     "Translation": "comprar",
     "ImageUrl": "images/a1.2/unit3/buy.jpg",
     "IPA": "/baɪ/",
-    "PronunciationGuide": "bai"
+    "PronunciationGuide": "bai",
+    "ExampleSentence": "Many customers buy our products online."
   },
   {
     "Title": "VOC_A1.2_03_0119",
@@ -1329,7 +1334,8 @@
     "Translation": "cobrar por",
     "ImageUrl": "images/a1.2/unit3/chargefor.jpg",
     "IPA": "/tʃɑːrdʒ fɔːr/",
-    "PronunciationGuide": "chardch for"
+    "PronunciationGuide": "chardch for",
+    "ExampleSentence": "We do not charge for delivery this week."
   },
   {
     "Title": "VOC_A1.2_03_0120",
@@ -1340,7 +1346,8 @@
     "Translation": "quejarse",
     "ImageUrl": "images/a1.2/unit3/complain.jpg",
     "IPA": "/kəmˈpleɪn/",
-    "PronunciationGuide": "cam-pléin"
+    "PronunciationGuide": "cam-pléin",
+    "ExampleSentence": "Customers complain when an order is late."
   },
   {
     "Title": "VOC_A1.2_03_0121",
@@ -1351,7 +1358,8 @@
     "Translation": "disminuir",
     "ImageUrl": "images/a1.2/unit3/decrease.avif",
     "IPA": "/dɪˈkriːs/",
-    "PronunciationGuide": "di-críis"
+    "PronunciationGuide": "di-críis",
+    "ExampleSentence": "We decrease prices during seasonal sales."
   },
   {
     "Title": "VOC_A1.2_03_0122",
@@ -1362,7 +1370,8 @@
     "Translation": "desarrollar",
     "ImageUrl": "images/a1.2/unit3/develop.webp",
     "IPA": "/dɪˈvɛləp/",
-    "PronunciationGuide": "di-vé-lap"
+    "PronunciationGuide": "di-vé-lap",
+    "ExampleSentence": "Our team develops new products for the market."
   },
   {
     "Title": "VOC_A1.2_03_0123",
@@ -1373,7 +1382,8 @@
     "Translation": "aumentar",
     "ImageUrl": "images/a1.2/unit3/increase.jpg",
     "IPA": "/ɪnˈkriːs/",
-    "PronunciationGuide": "in-críis"
+    "PronunciationGuide": "in-críis",
+    "ExampleSentence": "Good advertising increases sales every month."
   },
   {
     "Title": "VOC_A1.2_03_0124",
@@ -1384,7 +1394,8 @@
     "Translation": "informar",
     "ImageUrl": "images/a1.2/unit3/inform.png",
     "IPA": "/ɪnˈfɔːrm/",
-    "PronunciationGuide": "in-fórm"
+    "PronunciationGuide": "in-fórm",
+    "ExampleSentence": "We inform clients about new discounts by email."
   },
   {
     "Title": "VOC_A1.2_03_0125",
@@ -1395,7 +1406,8 @@
     "Translation": "invertir",
     "ImageUrl": "images/a1.2/unit3/invest.jpg",
     "IPA": "/ɪnˈvɛst/",
-    "PronunciationGuide": "in-vést"
+    "PronunciationGuide": "in-vést",
+    "ExampleSentence": "They invest money to open a new store."
   },
   {
     "Title": "VOC_A1.2_03_0126",
@@ -1406,7 +1418,8 @@
     "Translation": "administrar",
     "ImageUrl": "images/a1.2/unit3/manage.jpg",
     "IPA": "/ˈmænɪdʒ/",
-    "PronunciationGuide": "má-nidch"
+    "PronunciationGuide": "má-nidch",
+    "ExampleSentence": "She manages the sales team very well."
   },
   {
     "Title": "VOC_A1.2_03_0127",
@@ -1417,18 +1430,20 @@
     "Translation": "vender",
     "ImageUrl": "images/a1.2/unit3/sell.jpg",
     "IPA": "/sɛl/",
-    "PronunciationGuide": "sel"
+    "PronunciationGuide": "sel",
+    "ExampleSentence": "We sell clothes and shoes in this store."
   },
-  {
+{
     "Title": "VOC_A1.2_03_0128",
     "Level": "A1",
     "Sublevel": "A1.2",
     "Unit": 3,
     "Word": "Bite the bullet",
-    "Translation": "Muerde la bala",
+    "Translation": "Afrontar la situación",
     "ImageUrl": "images/a1.2/unit3/bitethebullet.webp",
     "IPA": "/baɪt ðə ˈbʊlɪt/",
-    "PronunciationGuide": "bait dza bú-lit"
+    "PronunciationGuide": "bait dza bú-lit",
+    "ExampleSentence": "Prices are high, but we bite the bullet because we need the products."
   },
   {
     "Title": "VOC_A1.2_04_0129",
@@ -12813,16 +12828,17 @@
     "IPA": "/ɡoʊ daʊn ðə dreɪn/",
     "PronunciationGuide": "gou daun dza drein"
   },
-  {
+{
     "Title": "VOC_A1.2_03_1163",
     "Level": "A1",
     "Sublevel": "A1.2",
     "Unit": 3,
     "Word": "Jump through hoops",
-    "Translation": "sortear muchos obstáculos",
+    "Translation": "sortear obstáculos",
     "ImageUrl": "images/a1.2/unit3/jumpthroughhoops.png",
     "IPA": "/dʒʌmp θruː huːps/",
-    "PronunciationGuide": "dyamp zruu juups"
+    "PronunciationGuide": "dyamp zruu juups",
+    "ExampleSentence": "I jump through hoops to work and study at the same time."
   },
   {
     "Title": "VOC_A1.2_03_1164",
@@ -12830,10 +12846,11 @@
     "Sublevel": "A1.2",
     "Unit": 3,
     "Word": "Big picture",
-    "Translation": "visión general",
+    "Translation": "ver el panorama, visión general",
     "ImageUrl": "images/a1.2/unit3/bigpicture.jpg",
     "IPA": "/bɪɡ ˈpɪktʃɚ/",
-    "PronunciationGuide": "big pík-cher"
+    "PronunciationGuide": "big pík-cher",
+    "ExampleSentence": "Do not worry about small details; look at the big picture"
   },
   {
     "Title": "VOC_A1.2_04_1165",
